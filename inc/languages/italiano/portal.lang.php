@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:25:10 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:47:32
 // --------------------------------------------------------------------------------
 
 $l['nav_portal'] = 'Portale';
@@ -41,7 +41,6 @@ $l['num_threads'] = 'Discussioni del forum:';
 $l['num_posts'] = 'Messaggi del forum:';
 $l['full_stats'] = 'Statistiche dettagliate';
 $l['welcome'] = 'Benvenuto, {1}';
-$l['guest'] = 'Visitatore';
 $l['guest_welcome_registration'] = 'Devi <a href="{1}">registrarti</a> prima di poter scrivere nel forum.';
 $l['username'] = 'Nome utente';
 $l['password'] = 'Password';

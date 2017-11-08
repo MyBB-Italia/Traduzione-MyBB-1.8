@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 17:06:15 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:07:12
 // --------------------------------------------------------------------------------
 
 $l['preferences_and_personal_notes'] = 'Preferenze &amp; Note personali';
@@ -33,7 +33,7 @@ $l['personal_notes'] = 'Note personali';
 $l['codemirror'] = 'Attivare o disattivare Code Mirror';
 $l['use_codemirror_desc'] = 'Questa impostazione ti permette di disabilitare Code Mirror (usato nella modifica dei template e nella modifica dei fogli di stile). Per i più esperti.';
 $l['success_preferences_updated'] = 'Le preferenze sono state salvate con successo.';
-$l['use_2fa_desc'] = 'L\'autenticazione in due fattori è un metodo per rendere sicuro il tuo account di admin. Dopo averla attivata vedrai un codice QR qui sotto che devi scannerizzare con un\'app <a href="https://docs.mybb.com/1.8/administration/security/2fa/" target="_blank">come ad esempio Google Authenticator o Authy</a>. Queste app genereranno un codice che devi inserire durante ogni login al pannello admin.';
+$l['use_2fa_desc'] = 'L\'autenticazione in due fattori è un metodo per rendere sicuro il tuo account di admin. Dopo averla attivata vedrai un codice QR qui sotto che devi scannerizzare con un\'app <a href="https://docs.mybb.com/1.8/administration/security/2fa/" target="_blank" rel="noopener">come ad esempio Google Authenticator o Authy</a>. Queste app genereranno un codice che devi inserire durante ogni login al pannello admin.';
 $l['my2fa_qr'] = 'Codice di autenticazione in due fattori';
 $l['recovery_codes_desc'] = 'Visualizza i tuoi <a href="index.php?module=home-preferences&amp;action=recovery_codes">codici di recupero</a>.';
 $l['recovery_codes'] = 'Codici di recupero';

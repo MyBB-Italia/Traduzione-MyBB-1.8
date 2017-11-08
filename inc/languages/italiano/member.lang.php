@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 16:58:50 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:24:32
 // --------------------------------------------------------------------------------
 
 $l['nav_register'] = 'Registrazione';
@@ -97,7 +97,7 @@ $l['agreement_4'] = 'Ogni informazione inviata a questa Board non verrà divulg
 $l['agreement_5'] = 'Continuando la registrazione accetti le suddette regole e ogni altra regola specificata dall\'Amministratore.';
 $l['registration'] = 'Registrazione';
 $l['required_fields'] = 'Campi richiesti';
-$l['complex_password'] = 'Password <acronym title="Una password che è lunga almeno {1} caratteri e che contiene una lettera maiuscola, una lettera minuscola e un numero.">Complessa</acronym>:';
+$l['complex_password'] = 'Password <abbr title="Una password che è lunga almeno {1} caratteri e che contiene una lettera maiuscola, una lettera minuscola e un numero.">Complessa</abbr>:';
 $l['confirm_email'] = 'Conferma e-mail:';
 $l['optional_fields'] = 'Campi opzionali';
 $l['website_url'] = 'Il tuo sito web:';
@@ -122,7 +122,7 @@ $l['dst_correction_enabled'] = 'Usa sempre la correzione';
 $l['dst_correction_disabled'] = 'Non usare mai la correzione';
 $l['redirect_registered_coppa_activate'] = 'Grazie per esserti registrato a {1}, {2}. Il tuo account è stato creato, tuttavia, dato che il possessore di questo account ha meno di 13 anni, è necessario il permesso di un genitore prima che questo account possa essere usato<br /><br />Un genitore o un legale tutore deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form">modulo di Conformità e Consenso COPPA</a>.<br /><br />Quando riceveremo una copia compilata di questo modulo , l\'account sarà  attivato.';
 $l['coppa_compliance'] = 'Conformità COPPA';
-$l['coppa_desc'] = 'Prima di potersi regiastrare a questo forum, ti chiediamo di verificare la tua età , per conformità  con il <a href="http://coppa.org/" title="Children\'s Online Privacy Protection Act" target="_blank">COPPA</a>. Inserisci la data di nascita nello spazio sottostante.<br /><br />Se hai meno di 13 anni, è necessario il consenso di un genitore prima della registrazione. Un genitore o un legale tutore deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form" target="_blank">modulo di Conformità  e Consenso COPPA</a>.';
+$l['coppa_desc'] = 'Prima di potersi registrare a questo forum, ti chiediamo di verificare la tua età, per conformità con il <a href="http://coppa.org/" title="Children\'s Online Privacy Protection Act" target="_blank">COPPA</a>. Inserisci la tua data di nascita nello spazio sottostante.<br /><br />Se hai meno di 13 anni, è necessario il consenso di un genitore prima della registrazione. Un genitore o un tutore legale deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form" target="_blank" rel="noopener">modulo di Conformità e Consenso COPPA</a>.';
 $l['hide_dob'] = 'Successivamente potrai scegliere di nascondere la tua data di nascita e l\'età  modificando il profilo dopo la registrazione.';
 $l['signature'] = 'Firma:';
 $l['continue_registration'] = 'Continua con la registrazione';
@@ -141,10 +141,10 @@ $l['parent_details'] = 'Dettagli genitore / tutore';
 $l['full_name'] = 'Nome e cognome:';
 $l['relation'] = 'Parentela:';
 $l['phone_no'] = 'Telefono #:';
-$l['coppa_parent_agreement'] = 'Dichiaro che le informazioni indicate corrispondono alla verità , che ogni informazione potrebbe essere modificata in futuro utilizzando la password fornita e che questo account potrà  essere rimosso su richiesta.';
+$l['coppa_parent_agreement'] = 'Dichiaro che le informazioni indicate corrispondono alla verità , che ogni informazione potrebbe essere modificata in futuro utilizzando la password fornita e che questo account potrà essere rimosso su richiesta.';
 $l['coppa_agreement_1'] = 'Utenti sotto i 13 anni devono ricevere il permesso dei genitori o tutori legaliper potersi registrare a {1}.';
-$l['coppa_agreement_2'] = 'Un genitore o un legale tutore deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form" target="_blank">modulo di Conformità  e Consenso COPPA</a> prima che la registrazione possa concludersi.';
-$l['coppa_agreement_3'] = 'Se preferisci, puoi iniziare ora il processo di registrazione, ma l\'account rimarrà  inaccessibile finchè il modulo di consenso non sarà  ricevuto.';
+$l['coppa_agreement_2'] = 'Un genitore o un legale tutore deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form" target="_blank" rel="noopener">modulo di Conformità e Consenso COPPA</a> prima che la registrazione possa concludersi.';
+$l['coppa_agreement_3'] = 'Se preferisci, puoi iniziare ora il processo di registrazione, ma l\'account rimarrà  inaccessibile finchè il modulo di consenso non sarà ricevuto.';
 $l['error_invalid_birthday'] = 'Il compleanno inserito non è valido. Per favore inserisci un compleanno valido.';
 $l['error_awaitingcoppa'] = 'Non puoi accedere da questo account in quanto sta ancora attendendo la validazione COPPA da un genitore o tutore.<br /><br />Un genitore o un legale tutore deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form" target="_blank">modulo di Conformità  e Consenso COPPA</a>.<br /><br />Quando riceveremo una copia compilata del modulo, l\'account sarà  attivato.';
 $l['lang_select'] = 'Seleziona lingua:';
@@ -225,6 +225,7 @@ $l['js_validator_no_security_question'] = 'Devi inserire la risposta alla domand
 $l['js_validator_password_matches'] = 'Le password inserite devono corrispondere';
 $l['js_validator_password_complexity'] = 'Controllo complessità password';
 $l['js_validator_password_length'] = 'La password deve essere di almeno {1} caratteri';
+$l['js_validator_bad_password_security'] = 'La password inserita è simile al nome utente o all\'indirizzo email. Inserisci una password più complessa.';
 $l['js_validator_not_empty'] = 'Devi selezionare o inserire un valore per questo campo';
 $l['js_validator_checking_username'] = 'Controllo della disponibilità  del nome utente';
 $l['js_validator_username_length'] = 'Il nome utente deve essere tra {1} e {2} caratteri di lunghezza';

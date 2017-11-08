@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:21:53 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:23:56
 // --------------------------------------------------------------------------------
 
 $l['d1_name'] = 'Registrazione utente';
@@ -58,8 +58,8 @@ $l['d7_document'] = 'Puoi utilizzare il myCode, una versione semplificata dell\'
 <p>[email=example@example.com?subject=spam]E-mail con oggetto[/email]<br />&nbsp;&nbsp;&nbsp;<a href=\'mailto:example@example.com?subject=spam\'>E-mail con oggetto</a>
 <p><br />[quote]Il testo citato sarà  qui[/quote]<br />&nbsp;&nbsp;&nbsp;<quote>Il testo citato sarà  qui</quote>
 <p>[code]Testo con formattazione preservata[/code]<br />&nbsp;&nbsp;&nbsp;<code>Testo con formattazione preservata</code>
-<p><br />[img]http://www.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\'http://www.php.net/images/php.gif\'>
-<p>[img=50x50]http://www.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\'http://www.php.net/images/php.gif\' width=\'50\' height=\'50\'>
+<p><br />[img]https://secure.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\'https://secure.php.net/images/php.gif\'>
+<p>[img=50x50]https://secure.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\'https://secure.php.net/images/php.gif\' width=\'50\' height=\'50\'>
 <p><br />[color=red]Questo testo è rosso[/color]<br />&nbsp;&nbsp;&nbsp;<font color=\'red\'>Questo testo è rosso</font>
 <p>[size=3]Questo testo ha dimensione 3[/size]<br />&nbsp;&nbsp;&nbsp;<font size=\'3\'>Questo testo ha dimensione 3</font>
 <p>[font=Tahoma]Questo carattere è Tahoma[/font]<br />&nbsp;&nbsp;&nbsp;<font face=\'Tahoma\'>Questo carattere è Tahoma</font>

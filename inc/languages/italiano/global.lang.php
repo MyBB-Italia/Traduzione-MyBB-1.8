@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 17:01:50 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:19:14
 // --------------------------------------------------------------------------------
 
 $l['redirect_width'] = '50%';
@@ -133,8 +133,10 @@ $l['no_subscribe'] = 'Non iscriverti alla discussione';
 $l['no_subscribe_notification'] = 'Iscriviti senza ricevere notifiche per le nuove risposte';
 $l['instant_email_subscribe'] = 'Iscriviti e ricevi notifiche e-mail per le nuove risposte';
 $l['instant_pm_subscribe'] = 'Iscriviti e ricevi notifiche con messaggi privati per le nuove risposte';
-$l['today'] = '<span title="{1}">oggi</span>';
-$l['yesterday'] = '<span title="{1}">ieri</span>';
+$l['today_rel'] = '<span title="{1}">Oggi</span>';
+$l['yesterday_rel'] = '<span title="{1}">Ieri</span>';
+$l['today'] = 'Oggi';
+$l['yesterday'] = 'Ieri';
 $l['error'] = 'Messaggio dalla board';
 $l['multipage_pages'] = 'Pagine ({1}):';
 $l['multipage_last'] = 'Ultima';
@@ -526,6 +528,8 @@ $l['select2_loadmore'] = 'Carico altri risultati…';
 $l['select2_searching'] = 'Ricerca in corso…';
 $l['stopforumspam_error_decoding'] = 'Errore di decodifica dati da StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Errore di ricezione dati da StopForumSpam.com.';
+$l['stopforumspam_invalid_email'] = 'Indirizzo email non valido durante il controllo con le API di StopForumSpam.com.';
+$l['stopforumspam_invalid_ip_address'] = 'Indirizzo IP non valido durante il controllo con le API di StopForumSpam.com.';
 $l['invalid_nocaptcha'] = 'Per favore risolvi il reCAPTCHA per verificare che tu non sia un robot.';
 $l['image_verification'] = 'Verifica Immagine';
 $l['human_verification'] = 'Verifica Umana';

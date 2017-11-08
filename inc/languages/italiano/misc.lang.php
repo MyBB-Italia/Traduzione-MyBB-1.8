@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 16:58:55 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:33:27
 // --------------------------------------------------------------------------------
 
 $l['nav_helpdocs'] = 'Documenti di aiuto';
@@ -73,7 +73,7 @@ $l['forum_rules'] = '{1} - Regole';
 $l['error_invalid_limit'] = 'Il limite del feed inserito non è valido. Per favore specifica un limite valido.';
 $l['syndication'] = 'Ultima discussione syndication';
 $l['syndication_generated_url'] = 'Il Tuo URL syndication generato è:';
-$l['syndication_note'] = 'Qui sotto puoi generare un link per uno specifico feed syndication RSS. Il link può essere generato per tutti i forum, per forum, o per un numero specifico di forum. Ti verrà  mostrato un link che potrai copiare in un lettore di Feed RSS come <a href="http://www.sharpreader.net/">SharpReader</a>. <i><a href="https://it.wikipedia.org/wiki/RSS">Cosa sono i Feed RSS?</a></i>';
+$l['syndication_note'] = 'Qui sotto puoi generare un link per uno specifico feed syndication RSS. Il link può essere generato per tutti i forum, per forum, o per un numero specifico di forum. Ti verrà  mostrato un link che potrai copiare in un lettore di Feed RSS. <i><a href="https://it.wikipedia.org/wiki/RSS" rel="noopener">Cosa sono i Feed RSS?</a></i>';
 $l['syndication_forum'] = 'Forum per syndicate:';
 $l['syndication_forum_desc'] = 'Per favore seleziona un forum a destra. Usa il tasto CTRL per selezionare più forum.';
 $l['syndication_version'] = 'Versione feed:';

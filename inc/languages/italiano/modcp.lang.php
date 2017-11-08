@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 16:59:15 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:34:56
 // --------------------------------------------------------------------------------
 
 $l['nav_width'] = '180';
@@ -52,10 +52,11 @@ $l['report_time'] = 'Segnalato';
 $l['mark_read'] = 'Evidenzia il selezionato come letto';
 $l['no_reports'] = 'Al momento non ci sono segnalazioni non lette.';
 $l['no_logs'] = 'Non ci sono log di moderatori.';
-$l['error_noselected_reports'] = 'Non hai selezionato alcun messaggio segnalato evidenziato come letto. O questo o il messaggio selezionato è già stato evidenziato come letto da un altro utente.';
+$l['error_noselected_reports'] = 'Non hai selezionato alcun contenuto segnalato da evidenziate come letto.';
 $l['error_missing_ipaddress'] = 'Non hai inserito un indirizzo IP da cercare.';
 $l['error_no_results'] = 'Spiacente, non ci sono stati risultati trovati con i criteri che hai selezionato.';
-$l['redirect_reportsmarked'] = ' I messaggi segnalati sono stati evidenziati come letti.';
+$l['redirect_reportsmarked'] = 'I contenuti segnalati sono stati evidenziati come letti.';
+$l['redirect_allreportsmarked'] = "Tutti i contenuti segnalati sono stati evidenziati come letti.";
 $l['redirect_modnotes'] = 'Le note del moderatore sono state aggiornate.';
 $l['for'] = 'Per';
 $l['report_info'] = 'Contenuto Segnalazione';
@@ -69,6 +70,10 @@ $l['report_info_profile'] = 'Profilo di {1}';
 $l['report_info_reputation'] = '<a href="{1}">Reputazione</a> from {2}';
 $l['report_info_rep_profile'] = '<br /><span class="smalltext">Profilo di {1}</span>';
 $l['report_info_lastreporter'] = '{1}<br />da {2}';
+$l['page_selected'] = 'Tutte le <strong>{1}</strong> segnalazioni non lette in questa pagina sono state selezionate.';
+$l['all_selected'] = 'Tutte le <strong>{1}</strong> segnalazioni non lette sono state selezionate.';
+$l['select_all'] = 'Seleziona tutte e <strong>{1}</strong> le segnalazione non lette.';
+$l['clear_selection'] = 'Deseleziona la selezione.';
 $l['moderator_notes'] = 'Note del Moderatore';
 $l['notes_public_all'] = 'Queste note sono pubbliche a tutti i moderatori.';
 $l['save_notes'] = 'Note salvate';

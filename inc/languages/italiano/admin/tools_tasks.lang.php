@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sun, 30 Oct 2016 19:17:25 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:13:07
 // --------------------------------------------------------------------------------
 
 $l['task_manager'] = 'Gestore Task';
@@ -81,5 +81,5 @@ $l['success_task_enabled'] = 'Il task selezionata è stato abilitato.';
 $l['success_task_disabled'] = 'Il task selezionato è stato disablitato.';
 $l['success_task_run'] = 'Il task selezionato è stata eseguito.';
 $l['confirm_task_deletion'] = 'Sei sicuro di voler eliminare questo task ?';
-$l['confirm_task_enable'] = '<strong>ATTENZIONE:</strong> stai per abilitare un task progettato per essere eseguito solo via cron (Vai al <a href="https://docs.mybb.com/1.8/administration/task-manager" target="_blank">MyBB Docs</a> per ulteriori informazioni). Continuare?';
+$l['confirm_task_enable'] = '<strong>ATTENZIONE:</strong> stai per abilitare un task progettato per essere eseguito solo via cron (Vai al <a href="https://docs.mybb.com/1.8/administration/task-manager" target="_blank" rel="noopener">MyBB Docs</a> per ulteriori informazioni). Continuare?';
 $l['no_tasks'] = 'Al momento non ci sono task attivi nel forum.';

@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1809
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Wed, 21 Dec 2016 20:34:03 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:14:39
 // --------------------------------------------------------------------------------
 
 $l['user_groups'] = 'Gruppi utente';
@@ -217,6 +217,8 @@ $l['error_default_group_delete'] = 'I gruppi di default non possono essere elimi
 $l['error_cannot_have_both_types'] = 'Non puoi avere insieme un gruppo moderato e uno solo ad invito. Scegli uno o l\'altro.';
 $l['success_group_created'] = 'Il nuovo gruppo utenti è stato creato.';
 $l['success_group_updated'] = 'Il nuovo gruppo utenti è stato modificato.';
+$l['success_group_created_duplicate_title'] = "Il nuovo gruppo utente è stato creato. Nota che ci sono diversi gruppi utente chiamati \"{1}\".";
+$l['success_group_updated_duplicate_title'] = "Il gruppo utente selezionato è stato modificato. Nota che ci sono diversi gruppi utente chiamati \"{1}\".";
 $l['success_group_deleted'] = 'Il nuovo gruppo utenti è stato eliminato.';
 $l['success_groups_disporder_updated'] = 'L\'ordine di visualizzazione dei gruppi è stato aggiornato.';
 $l['success_join_request_approved'] = 'La richiesta di associazione selezionata è stata approvata. L\'utente è ora membro di questo gruppo.';

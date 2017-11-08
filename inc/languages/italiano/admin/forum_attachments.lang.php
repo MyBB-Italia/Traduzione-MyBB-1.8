@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1811
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 5 Aprile 2017 15:25:35 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:02:40
 // --------------------------------------------------------------------------------
 
 $l['attachments'] = 'Allegati';
@@ -82,6 +82,10 @@ $l['name_contains_desc'] = 'Per ricercare tramite caratteri speciali inserisci *
 $l['type_contains'] = 'Tipo di file contiene';
 $l['forum_is'] = 'Il forum è';
 $l['username_is'] = 'Nome utente è';
+$l['poster_is'] = "Il creatore è";
+$l['poster_is_either'] = "Utente o Visitatore";
+$l['poster_is_user'] = "Soltanto Utenti";
+$l['poster_is_guest'] = "Soltanto Visitatori";
 $l['more_than'] = 'Maggiore di';
 $l['greater_than'] = 'Più grande di';
 $l['is_exactly'] = 'E\' esattamente';

@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:24:52 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:47:17
 // --------------------------------------------------------------------------------
 
 $l['nav_online'] = 'Chi è online';
@@ -91,7 +91,6 @@ $l['viewing_reputation_report2'] = 'Sta guardando la reputazione';
 $l['member_resendactivation'] = 'Sta reinviando l\'email di attivazione dell\'utenza';
 $l['member_lostpw'] = 'Sta recuperando la <a href="member.php?action=lostpw">password persa</a>';
 $l['sending_thread'] = 'Sta inviando una discussione ad un amico';
-$l['guest'] = 'Ospite';
 $l['page'] = 'Pagina';
 $l['users_online'] = 'Chi è online';
 $l['on_username'] = 'Nome utente';

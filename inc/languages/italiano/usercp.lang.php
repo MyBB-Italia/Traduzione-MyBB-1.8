@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1809
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Wed, 21 Dec 2016 20:54:12 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:48:17
 // --------------------------------------------------------------------------------
 
 $l['nav_usercp'] = 'Pannello di controllo utente';
@@ -64,7 +64,7 @@ $l['avatar_mine'] = 'Questo è il tuo avatar';
 $l['change_avatar'] = 'Cambia avatar';
 $l['avatar_url'] = 'URL dell\'avatar :';
 $l['avatar_url_note'] = 'Inserisci l\'URL dell\'avatar presente su internet.';
-$l['avatar_url_gravatar'] = 'Per usare un <a href="https://gravatar.com" target="_blank">Gravatar</a> inserisci l\'email Gravatar.';
+$l['avatar_url_gravatar'] = 'Per usare un <a href="https://gravatar.com" target="_blank" rel="noopener">Gravatar</a> inserisci l\'email Gravatar.';
 $l['avatar_upload'] = 'Carica avatar:';
 $l['avatar_upload_note'] = 'Carica l\'avatar dal tuo computer.';
 $l['no_avatar'] = 'Nessun avatar';
@@ -188,13 +188,13 @@ $l['date_format'] = 'Formato data:';
 $l['date_format_desc'] = 'Il formato con il quale le date saranno mostrate.';
 $l['time_format'] = 'Formato ora:';
 $l['time_format_desc'] = 'Il formato con il quale l\'orario sarà mostrato.';
-$l['time_offset'] = 'Fuso orario (<acronimo title="Daylight Saving Time">DST</acronym> correzione escluse):';
+$l['time_offset'] = 'Fuso orario (Esclusa la correzione dell\'ora legale):';
 $l['time_offset_desc'] = 'Se utilizzi un fuso orario differente da quello della Board, impostalo qui sotto.';
 $l['gmt'] = 'GMT';
-$l['dst_correction'] = 'Correzione automatica cambio ora:';
-$l['dst_correction_auto'] = 'Determinazione automatica impostazione DST';
-$l['dst_correction_enabled'] = 'Utilizza sempre la correzione DST';
-$l['dst_correction_disabled'] = 'Non utilizzare mai la correzione DST';
+$l['dst_correction'] = 'Correzione automatica ora legale:';
+$l['dst_correction_auto'] = 'Determinaziona automaticamente l\'ora legale';
+$l['dst_correction_enabled'] = 'Utilizza sempre la correzione dell\'ora legale';
+$l['dst_correction_disabled'] = 'Non utilizzare mai la correzione dell\'ora legale';
 $l['board_language'] = 'Lingua della Board';
 $l['other_options'] = 'Altre opzioni';
 $l['style'] = 'Stile board:';

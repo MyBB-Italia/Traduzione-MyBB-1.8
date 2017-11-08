@@ -14,13 +14,15 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 17:01:50 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:05:04
 // --------------------------------------------------------------------------------
 
-$l['today'] = '<span title="{1}">Oggi</span>';
-$l['yesterday'] = '<span title="{1}">Ieri</span>';
+$l['today_rel'] = '<span title="{1}">Oggi</span>';
+$l['yesterday_rel'] = '<span title="{1}">Ieri</span>';
+$l['today'] = 'Oggi';
+$l['yesterday'] = 'Ieri';
 $l['size_yb'] = 'YB';
 $l['size_zb'] = 'ZB';
 $l['size_eb'] = 'EB';

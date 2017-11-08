@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:36:49 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:09:12
 // --------------------------------------------------------------------------------
 
 $l['mod_logs'] = 'Log di Moderazione';
@@ -25,6 +25,7 @@ $l['prune_mod_logs'] = 'Sfoltisci log moderatori';
 $l['prune_mod_logs_desc'] = 'Qui puoi sfoltire i log dei moderatori che rispondono a criteri scelti.';
 $l['no_modlogs'] = 'Non ci sono voci di log con i criteri specificati.';
 $l['username'] = 'Nome utente';
+$l['na_deleted'] = "Non trovato - Eliminato";
 $l['date'] = 'Data';
 $l['action'] = 'Azione';
 $l['information'] = 'Informazioni';

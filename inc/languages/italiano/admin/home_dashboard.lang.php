@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sun, 30 Oct 2016 19:13:05 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:05:30
 // --------------------------------------------------------------------------------
 
 $l['dashboard'] = 'Dashboard';
@@ -48,13 +48,13 @@ $l['latest_mybb_announcements'] = 'Ultimi Annunci MyBB';
 $l['no_announcements'] = 'Nessun annuncio memorizzato. <a href="index.php?module=home&amp;action=version_check">Controlla Aggiornamenti</a>.';
 $l['your_version'] = 'La tua versione';
 $l['latest_version'] = 'Ultima versione';
-$l['update_forum'] = 'Aggiorna all\'ultima versione di MyBB visitando il <a href="https://mybb.com" target="_blank">Sito Web MyBB</a>.';
+$l['update_forum'] = 'Aggiorna all\'ultima versione di MyBB visitando il <a href="https://mybb.com" target="_blank" rel="noopener">Sito Web MyBB</a>.';
 $l['read_more'] = 'Per saperne di più';
 $l['success_up_to_date'] = 'Congratulazioni, stai eseguendo l\'ultima versione di MyBB.';
 $l['error_out_of_date'] = 'La tua copia di MyBB non è aggiornata.';
 $l['error_communication'] = 'C\'è stato un problema di comunicazione con la versione server. Riprova tra qualche minuto.';
 $l['error_fetch_news'] = 'MyBB non è stato in grado di recuperare con successo gli ultimi annunci dal sito MyBB.';
-$l['news_description'] = 'Le ultime novità dal <a href="https://blog.mybb.com/" target="_blank">MyBB Blog</a>.';
+$l['news_description'] = 'Le ultime novità dal <a href="https://blog.mybb.com/" target="_blank" rel="noopener">blog di MyBB</a>.';
 $l['admin_notes_public'] = 'Queste note sono pubbliche a tutti gli amministratori.';
 $l['admin_notes'] = 'Note Amministratore';
 $l['save_notes'] = 'Salva Note';

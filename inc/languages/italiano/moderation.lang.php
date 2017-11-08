@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1809
+// Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Wed, 21 Dec 2016 20:54:23 +0000
+// Ultima modifica: Mer, 8 Novembre 2017 14:43:31
 // --------------------------------------------------------------------------------
 
 $l['nav_deletethread'] = 'Cancella discussione in modo definitivo';
@@ -180,7 +180,7 @@ $l['error_nosplitposts'] = 'Non puoi dividere questa discussione dato che non ha
 $l['error_movetosameforum'] = 'Non puoi spostare questa discussione nel forum in cui essa è attualmente contenuta. Seleziona un forum diverso.';
 $l['error_mergewithself'] = 'Le discussioni non possono essere unite con loro stesse.<br />Torna indietro e inserisci un indirizzo valido.';
 $l['error_movetoself'] = 'I messaggi non possono essere spostati all\'interno della stessa discussione.<br />Per favore vai indietro e inserisci un URL valido.';
-$l['error_delayedmoderation_unsupported_type'] = 'Spiacente,  non hai selezionato un tipo valido per questa azione di moderazione programmata.';
+$l['error_delayedmoderation_unsupported_type'] = 'Spiacente, non hai selezionato un tipo valido per questa azione di moderazione programmata o non hai i permessi per eseguire questa azione.';
 $l['error_delayedmoderation_unsupported_method'] = 'Spiacente, non hai selezionato un metodo di spostamento valido per questa azione di moderazione programmata.';
 $l['error_delayedmoderation_invalid_date_day'] = 'Spiacente, non hai selezionato un giorno valido per questa azione di moderazione programmata.';
 $l['error_delayedmoderation_invalid_date_month'] = 'Spiacente, non hai selezionato un mese valido per questa azione di moderazione programmata.';
@@ -194,7 +194,7 @@ $l['redirect_stickthread'] = 'La discussione è stata messa In Rilievo.<br />Sta
 $l['redirect_unstickthread'] = 'La discussione non è più in rilevo.<br />Stai per essere riportato alla discussione.';
 $l['redirect_threaddeleted'] = 'La discussione è stata cancellata in modo permanente. <br />Stai per tornare al forum.';
 $l['redirect_threadmoved'] = 'La discussione è stata spostata o copiata nel forum selezionato.<br />Stai per essere reindirizzato al forum.';
-$l['redirect_redirectsremoved'] = 'Tutti i redirects a questo thread sono stati rimossi.<br />Stai per essere riportato alla discussione.';
+$l['redirect_redirectsremoved'] = 'Tutti i reindirizzamenti a questa discussione sono stati rimossi.<br />Stai per essere riportato alla discussione.';
 $l['redirect_threadapproved'] = 'La discussione è stata approvata.';
 $l['redirect_threadunapproved'] = 'La discussione non è stata approvata.';
 $l['redirect_threadrestored'] = 'La discussione è stata ripristinata con successo.';
