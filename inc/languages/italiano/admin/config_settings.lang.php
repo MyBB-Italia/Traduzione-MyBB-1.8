@@ -16,7 +16,7 @@
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
 // Compatibile con la versione di MyBB : 1813
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 11:25:40
+// Ultima modifica: Mer, 8 Novembre 2017 15:06:22
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -208,6 +208,7 @@ $l['setting_captchaimage_0'] = 'Nessun CAPTCHA';
 $l['setting_captchaimage_1'] = 'CAPTCHA default di MyBB';
 $l['setting_captchaimage_2'] = 'reCAPTCHA';
 $l['setting_captchaimage_4'] = 'NoCAPTCHA reCAPTCHA';
+$l['setting_captchaimage_5'] = 'reCAPTCHA invisibile';
 $l['setting_captchapublickey'] = 'reCAPTCHA Public Key';
 $l['setting_captchapublickey_desc'] = 'Inserisci la tua public key del reCAPTCHA.';
 $l['setting_captchaprivatekey'] = 'reCAPTCHA Private Key';
@@ -237,6 +238,8 @@ $l['setting_no_plugins'] = 'Disabilita tutti i Plugins';
 $l['setting_no_plugins_desc'] = 'Imposta sì, se si desidera disabilitare tutti i plugin senza disattivarli o disinstallarli. Ciò equivale a definire manualmente NO_PLUGINS all\'inizio del file ./inc/init.php.';
 $l['setting_soft_delete'] = 'Abilita Soft Delete agli Utenti';
 $l['setting_soft_delete_desc'] = 'Se abilitato, i messaggi e le discussioni eliminate dagli utenti saranno nascoste e potranno essere ripristinati/e dai moderatori. Altrimenti, questi messaggi e queste discussioni saranno eliminate permanentemente.';
+$l['setting_announcementshtml'] = 'Abilita HTML negli annunci.';
+$l['setting_announcementshtml_desc'] = 'Permettere ai moderatori di utilizzare l\'HTML negli annunci?';
 $l['setting_helpsearch'] = 'Abilita la ricerca nei documenti d\'aiuto';
 $l['setting_helpsearch_desc'] = 'Se attivo, permette agli utenti di cercare nei documenti di aiuto.';
 $l['setting_deleteinvites'] = 'Scadenza inviti vecchio gruppo';
@@ -719,7 +722,7 @@ $l['setting_mail_handler_desc'] = 'La modalità di invio delle e-mail.';
 $l['setting_mail_handler_mail'] = 'E-mail da PHP';
 $l['setting_mail_handler_smtp'] = 'E-mail da SMTP';
 $l['setting_mail_parameters'] = 'Parametri aggiuntivi per la funzione mail() di PHP';
-$l['setting_mail_parameters_desc'] = 'In questa sezione puoi impostare i parametri aggiuntivi per la funzione mail() di PHP. Utilizzali solo se imposti \'mail  PHP\' per inviare le e-mail. <a href="http://php.net/function.mail" target="_blank">Altre informazioni</a>';
+$l['setting_mail_parameters_desc'] = 'In questa sezione puoi impostare i parametri aggiuntivi per la funzione mail() di PHP. Utilizzali solo se imposti \'mail  PHP\' per inviare le e-mail. <a href="http://php.net/function.mail" target="_blank" rel="noopener">Altre informazioni</a>';
 $l['setting_smtp_host'] = 'Nome host SMTP';
 $l['setting_smtp_host_desc'] = 'Il nome dell\'host del server SMTP.<br />Selezionare solo se la posta viene inviata tramite server SMTP esterno';
 $l['setting_smtp_port'] = 'Porta SMTP';
@@ -765,7 +768,7 @@ $l['setting_purgespammerbangroup_desc'] = 'Seleziona il gruppo utente dove mette
 $l['setting_purgespammerbanreason'] = 'Motivo del Ban';
 $l['setting_purgespammerbanreason_desc'] = 'Il motivo che viene visualizzato allo spammer bannato.';
 $l['setting_purgespammerapikey'] = 'Stop Forum Spam API Key';
-$l['setting_purgespammerapikey_desc'] = 'Al fine di essere in grado di presentare le informazioni su uno spammer al database Stop Forum Spam, hai bisogno di una API Key. È possibile ottenere una API Key <a href="https://www.stopforumspam.com/forum/register.php" target="_blank">qui</a>. Quando avete la vostra chiave, inseritela nella casella sottostante.';
+$l['setting_purgespammerapikey_desc'] = 'Al fine di essere in grado di presentare le informazioni su uno spammer al database Stop Forum Spam, hai bisogno di una API Key. È possibile ottenere una API Key <a href="https://www.stopforumspam.com/forum/register.php" target="_blank" rel="noopener">qui</a>. Quando avete la vostra chiave, inseritela nella casella sottostante.';
 $l['setting_enablestopforumspam_on_register'] = 'Controllare le nuove registrazioni?';
 $l['setting_enablestopforumspam_on_register_desc'] = 'Vuoi verificare tutte le nuove registrazioni nel database StopForumSpam?';
 $l['setting_stopforumspam_on_contact'] = 'Controllare le richieste di contatto da parte degli ospiti?';

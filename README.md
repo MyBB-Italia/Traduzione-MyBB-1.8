@@ -1,6 +1,6 @@
 [![MyBB Italia](https://www.mybb-it.com/images/new_logo.png "MyBB Italia")](https://www.mybb-it.com "MyBB Italia")
 
-## Traduzione Italiana MyBB 1.8.12
+## Traduzione Italiana MyBB 1.8.13
 
 ### Contributo
 
