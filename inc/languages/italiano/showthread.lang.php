@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1815
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:27:49 +0000
+// Ultima modifica: Sab, 17 Mar 2018 18:10:49 +0000
 // --------------------------------------------------------------------------------
 
 $l['delete_poll'] = 'Elimina il sondaggio';
@@ -61,6 +61,7 @@ $l['you_voted'] = '* Hai votato.';
 $l['poll_closed'] = 'Questo sondaggio è chiuso.';
 $l['poll_closes'] = 'Questo sondaggio verrà chiuso il: {1}';
 $l['already_voted'] = 'Hai già votato in questo sondaggio.';
+$l['no_voting_permission'] = 'Non hai i permessi per votare in questo sondaggio.';
 $l['undo_vote'] = 'Cancella voto';
 $l['quick_reply'] = 'Risposta rapida';
 $l['message_note'] = 'Scrivi qui il tuo messaggio.';

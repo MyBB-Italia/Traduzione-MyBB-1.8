@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1815
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:43:31
+// Ultima modifica: Sab, 17 Marzo 2018 18:07:31
 // --------------------------------------------------------------------------------
 
 $l['nav_deletethread'] = 'Cancella discussione in modo definitivo';
@@ -180,6 +180,7 @@ $l['error_nosplitposts'] = 'Non puoi dividere questa discussione dato che non ha
 $l['error_movetosameforum'] = 'Non puoi spostare questa discussione nel forum in cui essa è attualmente contenuta. Seleziona un forum diverso.';
 $l['error_mergewithself'] = 'Le discussioni non possono essere unite con loro stesse.<br />Torna indietro e inserisci un indirizzo valido.';
 $l['error_movetoself'] = 'I messaggi non possono essere spostati all\'interno della stessa discussione.<br />Per favore vai indietro e inserisci un URL valido.';
+$l['error_movetononmodforum'] = 'Non puoi muovere la discussione in un forum in cui non sei un moderatore o non hai i permessi per vederlo.';
 $l['error_delayedmoderation_unsupported_type'] = 'Spiacente, non hai selezionato un tipo valido per questa azione di moderazione programmata o non hai i permessi per eseguire questa azione.';
 $l['error_delayedmoderation_unsupported_method'] = 'Spiacente, non hai selezionato un metodo di spostamento valido per questa azione di moderazione programmata.';
 $l['error_delayedmoderation_invalid_date_day'] = 'Spiacente, non hai selezionato un giorno valido per questa azione di moderazione programmata.';
