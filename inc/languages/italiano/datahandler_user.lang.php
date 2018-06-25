@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:17:23
+// Ultima modifica: Lun, 25 Giugno 2018 20:38:36
 // --------------------------------------------------------------------------------
 
 $l['userdata_missing_username'] = 'Non hai inserito un nome utente. Inseriscine uno.';
@@ -44,6 +44,7 @@ $l['userdata_invalid_birthday_privacy'] = 'Seleziona un opzione valida per la pr
 $l['userdata_invalid_referrer'] = 'Il referente inserito non esiste. Inseriscine uno esistente o lascia il campo vuoto.';
 $l['userdata_invalid_language'] = 'La lingua selezionata non esiste. Selezionane una esistente.';
 $l['userdata_invalid_style'] = 'Lo stile selezionato non è valido. Per favore, scegline uno valido.';
+$l['userdata_away_too_long'] = 'Il motivo dell\'assenza specificato è troppo lungo. La lunghezza massima per questo campo è di 200 caratteri. Rimuovi {1} caratteri da questo campo.';
 $l['userdata_missing_returndate'] = 'La data di ritorno specificata è incompleta in uno o più campi. Accertati di aver inserito i campi relativi a giorno, mese ed anno.';
 $l['userdata_missing_required_profile_field'] = 'Non hai inserito una opzione per il campo "{1}". Riempilo o seleziona una delle opzioni.';
 $l['userdata_bad_profile_field_value'] = 'Non hai selezionato una opzione valida per il campo "{1}".';
