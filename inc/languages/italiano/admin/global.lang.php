@@ -137,6 +137,7 @@ $l['alt_disabled'] = 'Disabilitato';
 $l['enable'] = 'Abilita';
 $l['disable'] = 'Disabilita';
 $l['saved'] = 'Salvato';
+$l['guest'] = 'Ospite';
 $l['rel_in'] = 'In ';
 $l['rel_ago'] = 'fa';
 $l['rel_less_than'] = 'meno di ';
