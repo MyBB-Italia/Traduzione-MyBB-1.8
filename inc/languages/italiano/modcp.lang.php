@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:34:56
+// Ultima modifica: Dom, 24 Giugno 2018 14:58:38
 // --------------------------------------------------------------------------------
 
 $l['nav_width'] = '180';
@@ -139,7 +139,6 @@ $l['profile_optional'] = 'Campi opzionali';
 $l['website_url'] = 'Indirizzo del sito web:';
 $l['birthdate'] = 'Compleanno:';
 $l['icq_number'] = 'Numero ICQ:';
-$l['aim_screenname'] = 'Nome AIM:';
 $l['yahoo_id'] = 'ID Yahoo:';
 $l['skype_id'] = 'ID Skype:';
 $l['google_id'] = 'ID Google Hangouts:';

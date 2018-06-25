@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sun, 30 Oct 2016 21:00:54 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 15:02:12
 // --------------------------------------------------------------------------------
 
 $l['nav_reputation'] = 'Riepilogo reputazione';
@@ -32,7 +32,7 @@ $l['add_invalidpower'] = 'Hai selezionato dalla lista un\'opzione di voto non va
 $l['add_maxperday'] = 'Hai già assegnato il massimo numero di reputazioni permesse per oggi.';
 $l['add_maxperuser'] = 'Hai già assegnato a questo utente il numero massimo di reputazioni permesse oggi.';
 $l['add_maxperthread'] = 'Hai già assegnato a questo utente il numero massimo di reputazioni (per una discussione) permesse oggi.';
-$l['add_no_comment'] = 'Devi inserire una motivazione valida (commento) di almeno 10 caratteri per assegnare un voto a questo utente.';
+$l['add_no_comment'] = 'Devi inserire una motivazione valida (commento) di almeno {1} caratteri per assegnare un voto a questo utente.';
 $l['add_toolong'] = 'Devi inserire una motivazione che non sia più grande di {1} caratteri.';
 $l['add_negative_disabled'] = 'L\'amministratore ha disabilitato le reputazioni negative.';
 $l['add_neutral_disabled'] = 'L\'amministratore ha disabilitato le reputazioni neutrali.';

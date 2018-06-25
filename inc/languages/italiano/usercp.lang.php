@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:48:17
+// Ultima modifica: Dom, 24 Giugno 2018 15:09:22
 // --------------------------------------------------------------------------------
 
 $l['nav_usercp'] = 'Pannello di controllo utente';
@@ -220,7 +220,6 @@ $l['profile_optional'] = 'Campi opzionali';
 $l['website_url'] = 'URL del tuo sito internet:';
 $l['birthdate'] = 'Data di nascita:';
 $l['contact_field_icq'] = 'Numero ICQ:';
-$l['contact_field_aim'] = 'Nome AIM:';
 $l['contact_field_yahoo'] = 'ID Yahoo:';
 $l['contact_field_skype'] = 'ID Skype:';
 $l['contact_field_google'] = 'ID Google Hangouts:';
@@ -283,6 +282,7 @@ $l['no_pending_invitation'] = 'Non hai inviti in sospeso per questo gruppo.';
 $l['already_accepted_invite'] = 'Hai già accettato di iscriverti a questo gruppo.';
 $l['already_member_of_group'] = 'Non puoi iscriverti a questo gruppo perchè ne sei già  membro.';
 $l['already_sent_join_request'] = 'Hai già inviato la richiesta di iscrizione a questo gruppo, la richiesta è in attesa di moderazione.';
+$l['joinreason_too_long'] = 'Il motivo inserito è troppo lungo. Deve essere lungo al massimo 250 caratteri. Rimuovi {1} caratteri dal campo.';
 $l['group_join_requestsent'] = 'La richiesta è stata inviata. Appena la richiesta verrà approvata entrerai automaticamente nel gruppo.<br />Ora tornerai alla pagina dei gruppi.';
 $l['joined_group'] = 'Ti sei registrato con successo al gruppo.<br />Ora tornerai alla pagina dei gruppi.';
 $l['cannot_leave_primary_group'] = 'Spiacente, non puoi lasciare il tuo gruppo primario.';
@@ -302,7 +302,8 @@ $l['no_attachments'] = 'Attualmente non hai nessun file allegato ai tuoi messagg
 $l['date_uploaded'] = 'Inserito il';
 $l['no_attachments_selected'] = 'Non hai selezionato nessun allegato da eliminare.';
 $l['attachments_deleted'] = 'Gli allegati selezionati sono stati eliminati.<br />Ora tornerai alla pagina di gestione degli allegati.';
-$l['attachments_usage_quota'] = '- Utilizzi {1} di {2} ({3}) in {4} allegati';
+$l['attachments_usage_quota'] = '- Utilizzi {1} di {2} in {3} allegati';
+$l['attachments_usage_percent'] = ' ({1}%)';
 $l['attachments_usage'] = '- {1} in {2} allegati';
 $l['attachments_stats'] = 'Le statistiche dei tuoi allegati';
 $l['attachstats_attachs'] = 'Numero di allegati';
@@ -392,12 +393,12 @@ $l['new_hot_thread'] = 'Discussioni Hot (Nuove)';
 $l['posts_by_you'] = 'Contiene tuoi post';
 $l['no_new_thread'] = 'Non ci sono nuovi post';
 $l['hot_thread'] = 'Discussioni Hot(No Nuove)';
-$l['locked_thread'] = 'Discussione Chiusa';
+$l['closed_thread'] = 'Discussione Chiusa';
 $l['icon_dot'] = 'Contiene messeggio scritti da te. ';
 $l['icon_no_new'] = 'Non ci sono nuovi messaggi.';
 $l['icon_new'] = 'Nuovi messaggi.';
 $l['icon_hot'] = ' Discussione calda.';
-$l['icon_lock'] = ' Discussione chiusa.';
+$l['icon_close'] = ' Discussione chiusa.';
 $l['buddylist_error'] = 'Non è possibile visualizzare la lista amici. ';
 $l['buddyrequests_sent'] = 'Richiesta di amicizia inviata';
 $l['buddyrequests_received'] = 'Richiesta di amicizia ricevuta';

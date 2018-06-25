@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:05:04
+// Ultima modifica: Dom, 24 Giugno 2018 14:25:42
 // --------------------------------------------------------------------------------
 
 $l['today_rel'] = '<span title="{1}">Oggi</span>';
@@ -182,7 +182,7 @@ $l['timezone_gmt_minus_300'] = '(GMT -3:00) Brasile, Buenos Aires, Georgetown, I
 $l['timezone_gmt_minus_200'] = '(GMT -2:00) Stati del Medio Atlantico, Georgia del Sud e Isole Sandwich Meridionali';
 $l['timezone_gmt_minus_100'] = '(GMT -1:00) Azzorre, Capo Verde';
 $l['timezone_gmt'] = '(GMT) Casablanca, Dublino, Edimburgo, Londra, Lisbona, Monrovia';
-$l['timezone_gmt_100'] = '(GMT +1:00) Berlino, Bruxelles, Copenaghen, Madrid, Parigi, Roma, Varsavia';
+$l['timezone_gmt_100'] = '(GMT +1:00) Berlino, Bratislava, Bruxelles, Copenaghen, Madrid, Parigi, Praga, Roma, Varsavia';
 $l['timezone_gmt_200'] = '(GMT +2:00) Athens, Istanbul, Cairo, Gerusalemme, Sudafrica';
 $l['timezone_gmt_300'] = '(GMT +3:00) Kaliningrad, Minsk, Baghdad, Riyad, Nairobi';
 $l['timezone_gmt_350'] = '(GMT +3:30) Teheran';
@@ -191,7 +191,7 @@ $l['timezone_gmt_450'] = '(GMT +4:30) Kabul';
 $l['timezone_gmt_500'] = '(GMT +5:00) Islamabad, Karachi, Tashkent';
 $l['timezone_gmt_550'] = '(GMT +5:30) Mumbai, Calcutta, Chennai, Nuova Delhi';
 $l['timezone_gmt_575'] = '(GMT +5:45) Katmandu';
-$l['timezone_gmt_600'] = '(GMT +6:00) Almaty, Dhakra, Ekaterinburg';
+$l['timezone_gmt_600'] = '(GMT +6:00) Almaty, Dacca, Ekaterinburg';
 $l['timezone_gmt_650'] = '(GMT +6:30) Yangon';
 $l['timezone_gmt_700'] = '(GMT +7:00) Bangkok, Hanoi, Giacarta';
 $l['timezone_gmt_800'] = '(GMT +8:00) Pechino, Hong Kong, Perth, Singapore, Taipei, Manila';

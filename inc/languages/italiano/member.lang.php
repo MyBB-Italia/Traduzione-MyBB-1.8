@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:24:32
+// Ultima modifica: Dom, 24 Giugno 2018 14:54:38
 // --------------------------------------------------------------------------------
 
 $l['nav_register'] = 'Registrazione';
@@ -69,7 +69,6 @@ $l['homepage'] = 'Home page:';
 $l['pm'] = 'Messaggi privati:';
 $l['send_pm'] = 'Invia a {1} un messaggio privato.';
 $l['icq_number'] = 'Numero ICQ:';
-$l['aim_screenname'] = 'Nick AIM:';
 $l['yahoo_id'] = 'ID Yahoo:';
 $l['skype_id'] = 'ID Skype:';
 $l['google_id'] = 'ID Google Hangouts:';
@@ -123,6 +122,7 @@ $l['dst_correction_disabled'] = 'Non usare mai la correzione';
 $l['redirect_registered_coppa_activate'] = 'Grazie per esserti registrato a {1}, {2}. Il tuo account è stato creato, tuttavia, dato che il possessore di questo account ha meno di 13 anni, è necessario il permesso di un genitore prima che questo account possa essere usato<br /><br />Un genitore o un legale tutore deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form">modulo di Conformità e Consenso COPPA</a>.<br /><br />Quando riceveremo una copia compilata di questo modulo , l\'account sarà  attivato.';
 $l['coppa_compliance'] = 'Conformità COPPA';
 $l['coppa_desc'] = 'Prima di potersi registrare a questo forum, ti chiediamo di verificare la tua età, per conformità con il <a href="http://coppa.org/" title="Children\'s Online Privacy Protection Act" target="_blank">COPPA</a>. Inserisci la tua data di nascita nello spazio sottostante.<br /><br />Se hai meno di 13 anni, è necessario il consenso di un genitore prima della registrazione. Un genitore o un tutore legale deve scaricare, compilare ed inviarci una copia del nostro <a href="member.php?action=coppa_form" target="_blank" rel="noopener">modulo di Conformità e Consenso COPPA</a>.';
+$l['coppa_desc_for_deny'] = 'Prima di potersi registrare a questo forum, ti chiediamo di verificare la tua età, per conformità con il <a href="http://coppa.org/" title="Children\'s Online Privacy Protection Act" target="_blank">COPPA</a>. Inserisci la tua data di nascita nello spazio sottostante.';
 $l['hide_dob'] = 'Successivamente potrai scegliere di nascondere la tua data di nascita e l\'età  modificando il profilo dopo la registrazione.';
 $l['signature'] = 'Firma:';
 $l['continue_registration'] = 'Continua con la registrazione';

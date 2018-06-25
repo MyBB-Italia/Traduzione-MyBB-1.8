@@ -14,28 +14,23 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:33:27
+// Ultima modifica: Dom, 24 Giugno 2018 14:58:27
 // --------------------------------------------------------------------------------
 
 $l['nav_helpdocs'] = 'Documenti di aiuto';
 $l['nav_smilies'] = 'Lista smilie';
 $l['nav_syndication'] = 'Syndication ultima discussione (RSS)';
-$l['aol_im'] = 'AOL IM';
 $l['skype'] = 'Skype';
 $l['yahoo_im'] = 'Yahoo IM';
 $l['skype_center'] = 'Centro Skype';
 $l['chat_on_skype'] = 'Invia a {1} un messaggio con Skype';
 $l['call_on_skype'] = 'Chiama {1} con Skype';
 $l['yahoo_center'] = 'Centro Yahoo!';
-$l['aim_center'] = 'Centro AOL IM';
-$l['download_aim'] = 'Download AIM';
-$l['aim_remote'] = 'Telecomando AIM';
 $l['send_me_instant'] = 'Mandami un messaggio istantaneo';
 $l['add_me_buddy_list'] = 'Aggiungimi alla tua lista amici';
 $l['add_remote_to_page'] = 'Aggiungi telecomando alla tua Pagina';
-$l['download_aol_im'] = 'Download AOL instant messenger';
 $l['buddy_list'] = 'Lista amici';
 $l['online'] = 'Online';
 $l['online_none'] = '<em>Non ci sono amici online</em>';

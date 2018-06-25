@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:19:14
+// Ultima modifica: Dom, 24 Giugno 2018 14:50:14
 // --------------------------------------------------------------------------------
 
 $l['redirect_width'] = '50%';
@@ -59,7 +59,7 @@ $l['forumbit_moderated_by'] = 'Moderato da:';
 $l['new_posts'] = 'Il forum contiene nuovi messaggi';
 $l['no_new_posts'] = 'Il forum non contiene nuovi messaggi';
 $l['click_mark_read'] = 'Clicca per segnare questo forum come letto';
-$l['forum_locked'] = 'Il forum è chiuso';
+$l['forum_closed'] = 'Il forum è chiuso';
 $l['forum_redirect'] = 'Reindirizzamento';
 $l['lastpost_never'] = 'Mai';
 $l['viewing_one'] = ' (1 visitatore)';
@@ -358,7 +358,8 @@ $l['banned_lifted_never'] = 'Mai';
 $l['banned_email_warning'] = 'Stai utilizzando un indirizzo e-mail non consentito in questo forum. CambiaPlease reset it before continuing.';
 $l['powered_by'] = 'Powered by';
 $l['copyright'] = 'Copyright';
-$l['attach_quota'] = 'Stai usando <strong>{1}</strong> dello spazio a tua disposizione per gli allegati ({2})';
+$l['attach_quota'] = 'Lo spazio a tua disposizione per gli allegati è {2}';
+$l['attach_usage'] = 'Stai utilizzando <strong>{1}</strong>';
 $l['view_attachments'] = '[Visualizza i miei allegati]';
 $l['unlimited'] = 'Illimitato';
 $l['click_hold_edit'] = '(Clicca e tieni premuto per modificare)';
@@ -394,6 +395,7 @@ $l['error_loadlimit'] = 'Il server è al momento sovraccarico. Prova a tornare p
 $l['error_boardclosed'] = 'Attualmente il forum è chiuso per il seguente motivo:';
 $l['error_banned'] = 'Sei stato bannato. Non puoi inviare messaggi, leggere discussioni o accedere al forum. Per qualsiasi informazione contatta l\'amministratore del forum.';
 $l['error_cannot_upload_php_post'] = 'Impossibile caricare il file - Troppo grande per la direttiva php post_max_size. Premi il pulsante per tornare indietro.';
+$l['error_empty_post_input'] = 'Si è verificato un problema perché i dati della richiesta sono vuoti. Il problema potrebbe essere stato causato da un ricaricamento della pagina del browser o da un accesso diretto a questa pagina. Ti raccomandiamo di premere il pulsante torna indietro del browser e riprovare.';
 $l['error_database_repair'] = 'MyBB sta riparando automaticamente una tabella rovinata.';
 $l['unknown_user_trigger'] = 'Si è verificato un errore sconosciuto.';
 $l['warnings'] = 'Si sono verificati i seguenti errori:';
@@ -403,9 +405,7 @@ $l['refresh'] = 'Aggiorna';
 $l['select_language'] = 'Selezione rapida della lingua';
 $l['select_theme'] = 'Selezione rapida del tema';
 $l['invalid_post_code'] = 'Codice di autorizzazione errato. Stai utilizzando la funzione in modo corretto? Torna indietro e riprova.';
-$l['invalid_captcha'] = 'Per favore inserisci il testo contenuto all\'interno dell\'immagine. Inserire il testo esattamente come appare nell\'immagine.';
 $l['invalid_captcha_verify'] = 'Il testo inserito nella verifica dell\'immagine non è corretto. Inseriscilo esattamente come appare nell\'immagine.';
-$l['invalid_captcha_transmit'] = 'Non è possibile verificare il testo. Si prega di riprovare, grazie.';
 $l['captcha_fetch_failure'] = 'Si è verificato un errore durante il recupero del nuovo captcha.';
 $l['question_fetch_failure'] = 'Si è verificato un errore durante il recupero della nuova domanda.';
 $l['timezone_gmt_minus_1200'] = '(GMT -12:00) Isole Howland e Baker';
@@ -424,7 +424,7 @@ $l['timezone_gmt_minus_300'] = '(GMT -3:00) Brasile, Buenos Aires, Georgetown, I
 $l['timezone_gmt_minus_200'] = '(GMT -2:00) Stati del Medio Atlantico, Georgia del Sud e Isole Sandwich Meridionali';
 $l['timezone_gmt_minus_100'] = '(GMT -1:00) Azzorre, Capo Verde';
 $l['timezone_gmt'] = '(GMT) Casablanca, Dublino, Edimburgo, Londra, Lisbona, Monrovia';
-$l['timezone_gmt_100'] = '(GMT +1:00) Berlino, Bruxelles, Copenaghen, Madrid, Parigi, Roma, Varsavia';
+$l['timezone_gmt_100'] = '(GMT +1:00) Berlino, Bratislava, Bruxelles, Copenaghen, Madrid, Parigi, Praga, Roma, Varsavia';
 $l['timezone_gmt_200'] = '(GMT +2:00) Athens, Istanbul, Cairo, Gerusalemme, Sudafrica';
 $l['timezone_gmt_300'] = '(GMT +3:00) Kaliningrad, Minsk, Baghdad, Riyad, Nairobi';
 $l['timezone_gmt_350'] = '(GMT +3:30) Teheran';
@@ -433,7 +433,7 @@ $l['timezone_gmt_450'] = '(GMT +4:30) Kabul';
 $l['timezone_gmt_500'] = '(GMT +5:00) Islamabad, Karachi, Tashkent';
 $l['timezone_gmt_550'] = '(GMT +5:30) Mumbai, Calcutta, Chennai, Nuova Delhi';
 $l['timezone_gmt_575'] = '(GMT +5:45) Katmandu';
-$l['timezone_gmt_600'] = '(GMT +6:00) Almaty, Dhakra, Ekaterinburg';
+$l['timezone_gmt_600'] = '(GMT +6:00) Almaty, Dacca, Ekaterinburg';
 $l['timezone_gmt_650'] = '(GMT +6:30) Yangon';
 $l['timezone_gmt_700'] = '(GMT +7:00) Bangkok, Hanoi, Giacarta';
 $l['timezone_gmt_800'] = '(GMT +8:00) Pechino, Hong Kong, Perth, Singapore, Taipei, Manila';

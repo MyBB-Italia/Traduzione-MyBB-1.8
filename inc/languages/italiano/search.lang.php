@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sun, 30 Oct 2016 20:30:04 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 15:03:22
 // --------------------------------------------------------------------------------
 
 $l['nav_search'] = 'Cerca';
@@ -98,7 +98,7 @@ $l['icon_dot'] = 'Contiene i tuoi post. ';
 $l['icon_no_new'] = 'Non contiene nuovi post.';
 $l['icon_new'] = 'Nuovi post.';
 $l['icon_hot'] = ' Discussione calda.';
-$l['icon_lock'] = ' Discussione chiusa.';
+$l['icon_close'] = ' Discussione chiusa.';
 $l['attachment_count'] = 'Questa discussione contiene un allegato.';
 $l['attachment_count_multiple'] = 'Questa discussione contiene {1} allegati.';
 $l['goto_first_unread'] = 'Vai al primo post non letto';

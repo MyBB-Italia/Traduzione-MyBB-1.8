@@ -14,15 +14,15 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:22:05 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 14:51:05
 // --------------------------------------------------------------------------------
 
 $l['boardstats'] = 'Statistiche board';
 $l['new_posts'] = 'Il forum contiene nuovi messaggi';
 $l['no_new_posts'] = 'Il forum non contiene nuovi messaggi';
-$l['forum_locked'] = 'Il forum è chiuso';
+$l['forum_closed'] = 'Il forum è chiuso';
 $l['forum_unapproved_posts_count'] = 'Attualmente ci sono {1} messaggi non approvati in questo forum.';
 $l['forum_unapproved_post_count'] = 'Attualmente c\'è un messaggio non approvato in questo forum.';
 $l['forum_unapproved_threads_count'] = 'Attualmente ci sono {1} discussioni non approvate in questo forum.';

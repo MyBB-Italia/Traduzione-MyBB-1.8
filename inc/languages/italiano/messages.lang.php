@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1809
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Wed, 21 Dec 2016 20:51:53 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 14:57:22
 // --------------------------------------------------------------------------------
 
 $l['click_no_wait'] = 'Clicca qui se non vuoi aspettare.';
@@ -276,7 +276,7 @@ Lo Staff di {4}
 Informazioni per annullare la sottoscrizione:
 
 Se non vuoi ricevere altre notifiche riguardanti le nuove discussioni in questo forum, visita il seguente indirizzo URL:
-{7}/usercp2.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
+{7}/usercp.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
 
 ------------------------------------------';
 $l['email_activateaccount'] = '{1},
@@ -348,7 +348,7 @@ Lo Staff di {3}
 Informazioni per annullare la sottoscrizione:
 
 Se non vuoi ricevere altre notifiche riguardanti le risposte a questa discussione visita il seguente indirizzo URL
-{6}/usercp2.php?action=removesubscription&tid={8}my_post_key={9}
+{6}/usercp.php?action=removesubscription&tid={8}my_post_key={9}
 
 ------------------------------------------';
 $l['email_reachedpmquota'] = '{1},
@@ -485,7 +485,7 @@ Ci potrebbero essere altre nuove risposte ma non riceverai altre notifiche finch
 Informazioni per annullare la sottoscrizione:
 
 Se non vuoi ricevere altre notifiche riguardanti le risposte a questa discussione visita il seguente indirizzo URL
-[url]{5}/usercp2.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
 
 ------------------------------------------';
 $l['email_broken_task_subject'] = 'errore task MyBB su {1}';

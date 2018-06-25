@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1809
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Wed, 21 Dec 2016 20:40:31 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 14:40:22
 // --------------------------------------------------------------------------------
 
 $l['post_thread'] = 'Nuova discussione';
@@ -61,7 +61,7 @@ $l['new_hot_thread'] = 'Discussione calda (Nuovi)';
 $l['posts_by_you'] = 'Contiene tuoi messaggi';
 $l['no_new_thread'] = 'Non ci sono nuovi messaggi';
 $l['hot_thread'] = 'Discussione calda (Non ci sono nuovi messaggi)';
-$l['locked_thread'] = 'Discussione chiusa';
+$l['closed_thread'] = 'Discussione chiusa';
 $l['goto_first_unread'] = 'Vai al primo messaggio non letto';
 $l['pages'] = 'Pagine:';
 $l['pages_last'] = 'ultima';
@@ -94,7 +94,7 @@ $l['icon_dot'] = 'Contiene tuoi messaggi. ';
 $l['icon_no_new'] = 'Non ci sono nuovi messaggi.';
 $l['icon_new'] = 'Nuovi messaggi.';
 $l['icon_hot'] = ' Discussione calda.';
-$l['icon_lock'] = ' Discussione chiusa.';
+$l['icon_close'] = ' Discussione chiusa.';
 $l['attachment_count'] = 'Questa discussione contiene un allegato.';
 $l['attachment_count_multiple'] = 'Questa discussione contiene {1} allegati.';
 $l['rss_discovery_forum'] = 'Ultima discussione in {1}';

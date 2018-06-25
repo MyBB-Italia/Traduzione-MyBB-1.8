@@ -14,15 +14,16 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:20:57 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 14:39:57
 // --------------------------------------------------------------------------------
 
 $l['pmdata_too_long_subject'] = 'L\'oggetto del tuo messaggio è troppo lungo. Inseriscine uno più breve.';
 $l['pmdata_code_no_subject'] = '[nessun oggetto]';
 $l['pmdata_missing_subject'] = 'Non hai inserito un oggetto per il tuo messaggio. Per favore inseriscine uno.';
 $l['pmdata_missing_message'] = 'Non hai inserito un messaggio da inviare. Per favore inseriscine uno.';
+$l['pmdata_message_too_long'] = 'Il messaggio è troppo lungo. Inserisci un messaggio lungo al massimo {1} caratteri (attualmente {2}).';
 $l['pmdata_invalid_recipients'] = 'Uno o più utenti che hai specificato come destinatari non sono nomi utente registrati. Destinatari non validi: {1}';
 $l['pmdata_no_recipients'] = 'Non hai inserito alcun destinatario a cui inviare il messaggio. È necessario inserirne almeno uno nel campo "a".';
 $l['pmdata_too_many_recipients'] = 'Hai il permesso di mandare il messaggio soltanto a {1} utenti alla volta.';

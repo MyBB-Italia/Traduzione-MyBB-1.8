@@ -14,9 +14,9 @@
 // Friendly name of the language : Italiano (Italian)
 // Author of the language pack : MyBB Italia
 // Language pack translators website : https://www.mybb-it.com/
-// Compatible version of MyBB : 1808
+// Compatible version of MyBB : 1816
 // Last edited in MyBB Editor by : chack1172
-// Last edited date : Sun, 30 Oct 2016 19:30:08 +0000
+// Last edited date : Dom, 24 Giugno 2018 15:01:08
 // --------------------------------------------------------------------------------
 
 $l['report_reason'] = 'Motivo segnalazione:';
@@ -33,7 +33,7 @@ $l['report_reason_wrong'] = 'Forum sbagliato';
 $l['report_reason_other'] = 'Altro';
 $l['success_report_voted'] = 'Ti ringraziamo per la collaborazione.<br />Lo staff del forum controllerà al più presto la tua segnalazione.';
 $l['error_report_length'] = 'Per favore indica il motivo della tua segnalazione.';
-$l['error_invalid_report'] = 'Questo contenuto non esiste o non può essere segnalato.';
+$l['error_invalid_report'] = 'Questo {1} non esiste o non è consentita la segnalazione.';
 $l['error_invalid_report_reason'] = 'Il motivo selezionato non è valido.';
 $l['error_comment_required'] = 'Un commento aggiuntivo è richiesto per il motivo selezionato.';
 $l['error_report_duplicate'] = 'Questo contenuto è stato già segnalato da un altro utente.';

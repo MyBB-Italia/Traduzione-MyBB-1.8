@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1809
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Wed, 21 Dec 2016 20:37:05 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 14:36:42
 // --------------------------------------------------------------------------------
 
 $l['users'] = 'Utenti';
@@ -128,7 +128,7 @@ $l['success_view_created'] = 'La vista amministrativa è stata creata.';
 $l['success_view_updated'] = 'La vista amministrativa selezionata è stata aggiornata.';
 $l['success_view_deleted'] = 'La vista amministrativa selezionata è stata cancellata.';
 $l['confirm_view_deletion'] = 'Sei sicuro di voler cancellare la vista selezionata?';
-$l['warning_coppa_user'] = '<p class="alert"><strong>Attenzione: </strong> Questo utente è in attesa della validazione COPPA. <a href="index.php?module=user/users&amp;action=activate_user&amp;uid={1}">Attiva Account</a></p>';
+$l['warning_coppa_user'] = '<p class="alert"><strong>Attenzione: </strong> Questo utente è in attesa della validazione COPPA. <a href="index.php?module=user/users&amp;action=activate_user&amp;uid={1}&amp;my_post_key={2}">Attiva Account</a></p>';
 $l['required_profile_info'] = 'Informazioni profilo obbligatorie';
 $l['password'] = 'Password';
 $l['confirm_password'] = 'Conferma Password';
@@ -161,7 +161,6 @@ $l['custom_user_title'] = 'Titolo utente personalizzato';
 $l['custom_user_title_desc'] = 'Se vuoto, sarà utilizzato il titolo utente del gruppo';
 $l['website'] = 'Sito WEB';
 $l['icq_number'] = 'Numero ICQ';
-$l['aim_handle'] = 'Contatto AIM';
 $l['yahoo_messanger_handle'] = 'Contatto Yahoo! Messenger';
 $l['skype_handle'] = 'Contatto Skype';
 $l['google_handle'] = 'Contatto Google Hangouts';
@@ -188,8 +187,9 @@ $l['buddy_requests_pm'] = 'Ricevi un MP di notifica per le nuove richieste di am
 $l['buddy_requests_auto'] = 'Accetta automaticamente le nuove richieste di amicizia (se la casella qui sopra è spuntata, verrà inviato un MP di informazione della nuova amicizia)';
 $l['default_thread_subscription_mode'] = 'Metodo predefinito di sottoscrizione discussioni';
 $l['do_not_subscribe'] = 'Non sottoscrivere';
-$l['no_email_notification'] = 'Nessuna notifica email';
+$l['no_notification'] = 'Nessuna notifica';
 $l['instant_email_notification'] = 'Notifica email istantanea';
+$l['instant_pm_notification'] = 'Notifica MP instantanea';
 $l['messaging_and_notification'] = 'Messaggi &amp; Notifiche';
 $l['use_default'] = 'Usa predefinito';
 $l['date_format'] = 'Formato data';
@@ -330,7 +330,6 @@ $l['email_address_contains'] = 'L\'indirizzo Email contiene';
 $l['is_member_of_groups'] = 'È membro di uno o più di questi gruppi utente';
 $l['website_contains'] = 'Il sito WEB contiene';
 $l['icq_number_contains'] = 'Il numero ICQ contiene';
-$l['aim_handle_contains'] = 'Il contatto AIM contiene';
 $l['yahoo_contains'] = 'Il contatto Yahoo! Messenger contiene';
 $l['skype_contains'] = 'Il contatto Skype contiene';
 $l['google_contains'] = 'Il contatto Google Hangouts contiene';

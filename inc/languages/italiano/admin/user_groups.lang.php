@@ -14,7 +14,7 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
 // Ultima modifica: Mer, 8 Novembre 2017 14:14:39
 // --------------------------------------------------------------------------------
@@ -138,7 +138,7 @@ $l['can_view_deletion_notices'] = "Può vedere gli avvisi di eliminazione?";
 $l['account_management'] = 'Gestione account';
 $l['edit_time_limit'] = 'Limite di tempo per modifica';
 $l['edit_time_limit_desc'] = 'Il numero dei minuti che gli utenti normali possono usare per modificare i propri messaggi (se hanno i permessi). Inserire 0 (zero) per illimitato.';
-$l['can_be_reported'] = 'Può essere segnalato?';
+$l['can_be_reported'] = 'Può essere segnalato (profilo, messaggi e reputazione)?';
 $l['can_access_usercp'] = 'Può accedere al pannello utente?';
 $l['can_change_username'] = 'Può cambiare il nome utente?';
 $l['can_change_website'] = 'Può cambiare il sito web?';

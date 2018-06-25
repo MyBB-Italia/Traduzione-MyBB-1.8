@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:30:28 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 14:25:28
 // --------------------------------------------------------------------------------
 
 $l['bad_words'] = 'Filtri parole';
@@ -29,6 +29,8 @@ $l['bad_word_desc'] = 'Inserisci la parola che vuoi filtrare. Il carattere \'*\'
 $l['bad_word_max'] = 'Una parola filtrata non può essere più lunga di 100 caratteri.';
 $l['replacement'] = 'Sostituzione';
 $l['replacement_desc'] = 'Inserisci la stringa che andrà a sostituire la parola (se vuoto, verranno mostrati degli asterischi)';
+$l['regex'] = 'Espressione regolare';
+$l['regex_desc'] = 'Tratta il campo "Parola" come un\'expressione regolare.';
 $l['replacement_word_max'] = 'Una parola di sostituzione non può essere più lunga di 100 caratteri.';
 $l['error_replacement_word_invalid'] = 'La parola da sostituire non può essere uguale alla parola da filtrare.';
 $l['save_bad_word'] = 'Salva il filtro';

@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:35:56 +0000
+// Ultima modifica: Dom, 24 Giugno 2018 14:33:32
 // --------------------------------------------------------------------------------
 
 $l['themes'] = 'Temi';
@@ -180,6 +180,7 @@ $l['error_missing_stylesheet_name'] = 'Inserisci un nome per questo foglio di st
 $l['error_missing_stylesheet_extension'] = 'Questo foglio di stile deve finire con l\'estensione corretta, per esempio, {1}<em>.css</em>';
 $l['error_invalid_parent_theme'] = 'Il tema parente selezionato non esiste. Inserisci un tema parente esistente.';
 $l['error_invalid_templateset'] = 'Il set dei templates non esiste. Inserisci un set esistente.';
+$l['error_invalid_color'] = 'Il set di colori "{1}" contiene dei caratteri invalidi o non è nel giusto formato. Sono consentiti soltanto caratteri alfanumerici separati con un \'=\'.';
 $l['error_invalid_editortheme'] = 'L\'editor di tema selezionato non esiste. Seleziona un editor valido.';
 $l['error_inheriting_stylesheets'] = 'Non puoi eliminare questo tema in quanto altri temi sono legati a questo.';
 $l['error_cannot_parse'] = 'MyBB non può processare questo foglio di stile normalmente. Puoi modificarlo solo in modo avanzato.';

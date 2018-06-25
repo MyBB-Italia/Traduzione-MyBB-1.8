@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
+// Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 15:06:22
+// Ultima modifica: Lun, 24 Giugno 2018 19:31:22
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -168,6 +168,8 @@ $l['setting_group_contactdetails'] = 'Dettagli di contatto';
 $l['setting_group_contactdetails_desc'] = 'Questa sezione consente di modificare le impostazioni relative al campo delle informazioni di contatto';
 $l['setting_group_statspage'] = 'Pagina delle statistiche';
 $l['setting_group_statspage_desc'] = 'Questa sezione consente di modificare le impostazioni della pagina delle statistiche.';
+$l['setting_group_forumteam'] = 'Team del forum';
+$l['setting_group_forumteam_desc'] = 'Questa sezione ti permetti di controllare i vari aspetti della lista del team del forum (showteam.php), come l\'aspetto da considerare mentre si mostra la lista dei membri del team e quali aspetti attivare o disattivare.';
 $l['setting_boardclosed'] = 'Chiusura della Board';
 $l['setting_boardclosed_desc'] = 'Se hai bisogno di chiudere la Board per effettuare modifiche, aggiornamenti o altro puoi usare questa funzione. I visitatori e gli utenti non potranno visitare la board e le motivazioni saranno visibili solo all\'avviso di board chiusa. <strong>Gli amministratori potranno comunque utilizzare la board.</strong>';
 $l['setting_boardclosed_reason'] = 'Motivo della chiusura della Board';
@@ -194,6 +196,10 @@ $l['setting_cookiepath'] = 'Percorso dei cookie';
 $l['setting_cookiepath_desc'] = 'Il percorso impostato per i cookie, si raccomanda di inserire il percorso del proprio forum compreso lo slash finale.';
 $l['setting_cookieprefix'] = 'Prefisso dei cookie';
 $l['setting_cookieprefix_desc'] = 'Il prefisso assegnato ai cookie da MyBB. Questo è utile se si hanno installate più copie di MyBB nel dominio o se si utilizzano altri programmi che possono andare in conflitto con i cookie della board.';
+$l['setting_cookiesamesiteflag'] = 'Cookie con SameSite flag';
+$l['setting_cookiesamesiteflag_desc'] = 'I cookie di autenticazione utilizzeranno il flag SameSite per prevenire attacchi CSRF.	Tieni questa opzione disattivata se ti aspetti richieste POST cross-origin.';
+$l['setting_cookiesecureflag'] = 'Cookie con Secure flag';
+$l['setting_cookiesecureflag_desc'] = 'I cookie possono essere impostati con il Secure flag per prevenire di essere inviati su una connessione non criptata. Dovresti attivare questa opzione soltanto se il tuo forum funziona correttamente tramite HTTPS.';
 $l['setting_showvernum'] = 'Mostra la versione della Board';
 $l['setting_showvernum_desc'] = 'Abilita e disabilita la visualizzazione pubblica della versione della board.';
 $l['setting_mailingaddress'] = 'Indirizzo mailing list';
@@ -206,7 +212,6 @@ $l['setting_captchaimage'] = 'Immagine CAPTCHA per la registrazione e scrittura 
 $l['setting_captchaimage_desc'] = 'Se sì, e le librerie GD sono installate, un\'immagine viene mostrata durante la registrazione e la scrittura dei messaggi. Gli utenti dovranno essere inserite in un apposito campo, il testo contenuto nell\'immagine per continuare l\'operazione. Questa funzione previene registrazioni e messaggi automatici.';
 $l['setting_captchaimage_0'] = 'Nessun CAPTCHA';
 $l['setting_captchaimage_1'] = 'CAPTCHA default di MyBB';
-$l['setting_captchaimage_2'] = 'reCAPTCHA';
 $l['setting_captchaimage_4'] = 'NoCAPTCHA reCAPTCHA';
 $l['setting_captchaimage_5'] = 'reCAPTCHA invisibile';
 $l['setting_captchapublickey'] = 'reCAPTCHA Public Key';
@@ -791,8 +796,6 @@ $l['setting_stopforumspam_log_blocks'] = 'Log dei blocchi StopForumSpam?';
 $l['setting_stopforumspam_log_blocks_desc'] = 'Registrare ogni blocco da parte di StopForumSpam?';
 $l['setting_allowicqfield'] = 'Consenti il campo Numero ICQ ai gruppi utente';
 $l['setting_allowicqfield_desc'] = 'Selezionare i gruppi utente che hanno il permesso di utilizzare il campo di contatto relativo al numero ICQ.';
-$l['setting_allowaimfield'] = 'Consenti il campo Nome AIM ai gruppi utente';
-$l['setting_allowaimfield_desc'] = 'Selezionare i gruppi utente che hanno il permesso di utilizzare il campo di contatto relativo al nome AIM.';
 $l['setting_allowyahoofield'] = 'Consenti il campo ID Yahoo ai gruppi utente';
 $l['setting_allowyahoofield_desc'] = 'Selezionare i gruppi utente che hanno il permesso di utilizzare il campo di contatto relativo al ID Yahoo.';
 $l['setting_allowskypefield'] = 'Consenti il campo ID Skype ai gruppi utente';
@@ -803,7 +806,11 @@ $l['setting_statsenabled'] = 'Abilita la pagina delle statistiche';
 $l['setting_statsenabled_desc'] = 'Se si desidera disabilitare la pagina delle statistiche sulla vostra Board, impostare questa opzione su no.';
 $l['setting_statscachetime'] = 'Tempo aggiornamento statistiche';
 $l['setting_statscachetime_desc'] = 'Inserisci l\'intervallo di tempo per ricaricare le informazioni contenute nella pagina delle statistiche. Inserisci 0 per disabilitare l\'opzione.';
-$l['setting_cookiesecureflag'] = 'Cookie con Secure Flag';
-$l['setting_cookiesecureflag_desc'] = 'I cookie possono essere impostati con il Secure flag per prevenire di essere inviati su una connessione non criptata. Dovresti attivare questa opzione soltanto se il tuo forum funziona correttamente tramite HTTPS.';
 $l['setting_allowremoteavatars'] = 'Permetti Avatar Remoti';
 $l['setting_allowremoteavatars_desc'] = 'Scegli se permettere l\'uso di avatar da server remoti. Avendolo attivo può esporre l\'indirizzo IP del tuo server.';
+$l['setting_enableshowteam'] = 'Abilita la lista del team del forum';
+$l['setting_enableshowteam_desc'] = 'Se vuoi disattivare la lista del team del forum nella tua board, imposta questo opzione su No.';
+$l['setting_showaddlgroups'] = 'Mostra gruppi addizionali';
+$l['setting_showaddlgroups_desc'] = 'Scegli se la lista del team terrà conto anche dei gruppi addizionali.';
+$l['setting_showgroupleaders'] = 'Mostra leader del gruppo';
+$l['setting_showgroupleaders_desc'] = 'Includi i leader del gruppo nella lista del team.';
