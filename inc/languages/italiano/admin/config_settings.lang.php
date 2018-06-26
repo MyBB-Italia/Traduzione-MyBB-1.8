@@ -16,7 +16,7 @@
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
 // Compatibile con la versione di MyBB : 1816
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Lun, 24 Giugno 2018 19:31:22
+// Ultima modifica: Mar, 26 Giugno 2018 11:34:55
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -494,13 +494,8 @@ $l['setting_allowbuddyonly_desc'] = 'Dare la possibilità agli utenti di inviare
 $l['setting_minmessagelength'] = 'Lunghezza minima';
 $l['setting_minmessagelength_desc'] = 'Il numero minimo di caratteri in un messaggio';
 $l['setting_maxmessagelength'] = 'Lunghezza massima';
-$l['setting_maxmessagelength_desc'] = 'Il numero massimo di caratteri in un messaggio. Se imposti 0 non ci sono limiti massimi.
-<br />Questo dovrebbe correlare con il tipo della colonna message nella tabella posts del database, regolare di conseguenza. Qui di seguito sono le lunghezze massime per ogni tipo di colonna: 
-<ul>
-	<li>TEXT: 65535 (default)</li>
-	<li>MEDIUMTEXT: 16777215</li>
-	<li>LONGTEXT: 4294967295</li>
-</ul>';
+$l['setting_maxmessagelength_desc'] = 'Il numero massimo di caratteri permessi in un messaggio. Se impostato a 0 non ci sarà un limite massimo.
+<br />Consiglio: gli utenti mysql (massimo: 65535) possono cambiare il tipo del campo message manualmente nel database da TEXT a MEDIUMTEXT (16777215) o LONGTEXT (4294967295) per aumentare il limite.';
 $l['setting_mycodemessagelength'] = 'MyCode influisce nella lunghezza minima?';
 $l['setting_mycodemessagelength_desc'] = 'Vuoi che il MyCode influisca come carattere nella lunghezza minima di un messaggio?';
 $l['setting_postfloodcheck'] = 'Controllo messaggi consecutivi';
