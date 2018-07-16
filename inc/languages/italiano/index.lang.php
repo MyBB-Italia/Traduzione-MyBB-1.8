@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Compatibile con la versione di MyBB : 1817
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:51:05
+// Ultima modifica: Lun, 16 Luglio 2018 20:52:25
 // --------------------------------------------------------------------------------
 
 $l['boardstats'] = 'Statistiche board';
@@ -52,3 +52,4 @@ $l['online_guest_plural'] = 'ospiti';
 $l['online_guest_singular'] = 'ospite';
 $l['online_note'] = '{1} {2} online negli ultimi {3} minuti ({4} {5}, {6} di questi {7} invisibili, e {8} {9}).';
 $l['subforums'] = 'Sottoforum:';
+$l['board_stats_link_separator'] = ' | ';
