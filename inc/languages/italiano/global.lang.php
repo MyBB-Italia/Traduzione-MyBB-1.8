@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Compatibile con la versione di MyBB : 1818
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:50:14
+// Ultima modifica: Gio, 23 Agosto 2018 11:09:35
 // --------------------------------------------------------------------------------
 
 $l['redirect_width'] = '50%';
@@ -123,6 +123,8 @@ $l['insert_attachment_post'] = 'Inserisci nel messaggio';
 $l['new_attachment'] = 'Nuovo allegato:';
 $l['add_attachment'] = 'Aggiungi allegato';
 $l['update_attachment'] = 'Aggiorna allegato';
+$l['attachment_too_many_files'] = 'Puoi allegare un massimo di {1} file alla volta.';
+$l['attachment_too_big_upload'] = 'Puoi allegare un massimo di {1} byte alla volta.';
 $l['post_preview'] = 'Anteprima messaggio';
 $l['change_user'] = 'cambia utente';
 $l['post_icon'] = 'Icona messaggio:';
@@ -206,7 +208,7 @@ $l['editor_insertquote'] = 'Inserisci una citazione';
 $l['editor_invalidyoutube'] = 'Video YouTube non valido';
 $l['editor_dailymotion'] = 'Dailymotion';
 $l['editor_metacafe'] = 'MetaCafe';
-$l['editor_veoh'] = 'Veoh';
+$l['editor_mixer'] = 'Mixer';
 $l['editor_vimeo'] = 'Vimeo';
 $l['editor_youtube'] = 'Youtube';
 $l['editor_twitch'] = "Twitch";

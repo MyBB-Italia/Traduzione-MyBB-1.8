@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Compatibile con la versione di MyBB : 1818
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:57:22
+// Ultima modifica: Gio, 23 Agosto 2018 11:13:37
 // --------------------------------------------------------------------------------
 
 $l['click_no_wait'] = 'Clicca qui se non vuoi aspettare.';
@@ -27,7 +27,7 @@ $l['error_invalidpworusername'] = 'Hai inserito un nome utente o password non va
 $l['error_invalidpworusername1'] = 'Hai inserito una email o password non validi. <br /><br />Se hai dimenticato la password <a href="member.php?action=lostpw">richiedine una nuova</a>.';
 $l['error_invalidpworusername2'] = 'Hai inserito un nome utente e password o una email e password non validi. <br /><br />Se hai dimenticato la password <a href="member.php?action=lostpw">richiedine una nuova</a>.';
 $l['error_incompletefields'] = 'Sembra che hai lasciato vuoti uno o più campi obbligatori. Per favore torna indietro e riempi i campi richiesti.';
-$l['error_alreadyuploaded'] = 'Sembra che hai già  caricato lo stesso file (giudicando dal nome del file e dalla sua grandezza) in questo messaggio. Per favore scegli un file differente da allegare.In alternativa puoi cliccare su "Aggiorna allegato".';
+$l['error_alreadyuploaded'] = 'Sembra che hai già caricato un file chiamato "{1}" in questo messaggio. Per favore scegli un file differente da allegare. In alternativa puoi cliccare su "Aggiorna allegato".';
 $l['error_alreadyuploaded_perm'] = 'Questo messaggio contiene già un allegato con lo stesso nome. Per favore rimuovi il file esistente o rinomina il file e ricaricalo di nuovo.';
 $l['error_nomessage'] = 'Spiacenti, non possiamo procedere in quanto non hai inserito un messaggio valido. Per favore torna indietro ed inseriscilo.';
 $l['error_invalidemail'] = 'Hai inserito un indirizzo e-mail non valido.';
@@ -41,8 +41,8 @@ $l['error_invalidattachment'] = 'L\'allegato specificato non esiste.';
 $l['error_invalidforum'] = 'Forum non valido';
 $l['error_closedinvalidforum'] = 'Non puoi inviare messaggi in questo forum perchè il forum è chiuso, oppure perchè è una categoria.';
 $l['error_attachtype'] = 'Il tipo di file che hai allegato non è permesso. Per favore rimuovi l\'allegato o scegli un tipo di file differente.';
-$l['error_attachsize'] = 'Il file che hai allegato è troppo grande. La dimensione massima per questo tipo di file è {1} KB.';
-$l['error_uploadempty'] = 'Il file specificato è vuoto.';
+$l['error_attachsize'] = 'Il file "{1}" è troppo grande. La dimensione massima per questo tipo di file è {2} KB.';
+$l['error_uploadempty'] = 'Il file "{1}" è vuoto.';
 $l['error_uploadsize'] = 'Il file che hai caricato è troppo grande.';
 $l['error_uploadfailed'] = 'Il caricamento del file è fallito. Per favore scegli un file valido e prova ancora.';
 $l['error_uploadfailed_detail'] = 'Dettagli Errore: ';

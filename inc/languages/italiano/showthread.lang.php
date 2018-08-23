@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1815
+// Compatibile con la versione di MyBB : 1818
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sab, 17 Mar 2018 18:10:49 +0000
+// Ultima modifica: Gio, 23 Agosto 2018 11:18:25
 // --------------------------------------------------------------------------------
 
 $l['delete_poll'] = 'Elimina il sondaggio';
@@ -119,3 +119,4 @@ $l['quick_delete_success'] = 'Il messaggio è stato cancellato correttamente.';
 $l['quick_delete_thread_success'] = 'La discussione è stata cancellata con successo.';
 $l['quick_restore_error'] = 'Si è verificato un errore durante il ripristino della risposta:';
 $l['quick_restore_success'] = 'Il messaggio è stato ripristinato con successo.';
+$l['post_deleted_error'] = 'Non puoi eseguire questa azione ad un messaggio eliminato.';

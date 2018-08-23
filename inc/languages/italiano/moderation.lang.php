@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1815
+// Compatibile con la versione di MyBB : 1818
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sab, 17 Marzo 2018 18:07:31
+// Ultima modifica: Gio, 23 Agosto 2018 11:16:10
 // --------------------------------------------------------------------------------
 
 $l['nav_deletethread'] = 'Cancella discussione in modo definitivo';
@@ -99,6 +99,7 @@ $l['opened'] = 'Aperto';
 $l['closed'] = 'Chiuso';
 $l['stuck'] = 'Rilievo';
 $l['unstuck'] = 'Non in rilievo';
+$l['error'] = 'Errore!';
 $l['mod_process'] = 'Discussione {1}';
 $l['redirects_removed'] = 'Rimossi i redirect alle discussioni';
 $l['thread_deleted'] = 'Discussione cancellata in modo definitivo: {1}';
@@ -186,6 +187,7 @@ $l['error_delayedmoderation_unsupported_method'] = 'Spiacente, non hai seleziona
 $l['error_delayedmoderation_invalid_date_day'] = 'Spiacente, non hai selezionato un giorno valido per questa azione di moderazione programmata.';
 $l['error_delayedmoderation_invalid_date_month'] = 'Spiacente, non hai selezionato un mese valido per questa azione di moderazione programmata.';
 $l['error_delayedmoderation_invalid_date_year'] = 'Spiacente, non hai selezionato un anno valido per questa azione di moderazione programmata.';
+$l['error_thread_deleted'] = 'La discussione è stata cancellata. Per eseguire questa azione devi ripristinarla.';
 $l['redirect_pollnotdeleted'] = 'Il sondaggio non è stato cancellato perchè non hai spuntato la casella \'Cancella\'.';
 $l['redirect_polldeleted'] = 'Il sondaggio è stato cancellato della discussione con successo.<br />Stai per essere riportato alla discussione.';
 $l['redirect_mergeposts'] = 'I messaggi selezionati sono stati uniti. Stai per essere riportato alla discussione.';

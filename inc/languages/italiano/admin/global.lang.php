@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Compatibile con la versione di MyBB : 1818
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:25:42
+// Ultima modifica: Gio, 23 Agosto 2018 11:07:12
 // --------------------------------------------------------------------------------
 
 $l['today_rel'] = '<span title="{1}">Oggi</span>';
@@ -279,7 +279,7 @@ $l['editor_insertquote'] = 'Inserisci una citazione';
 $l['editor_invalidyoutube'] = 'Video YouTube non valido';
 $l['editor_dailymotion'] = 'Dailymotion';
 $l['editor_metacafe'] = 'MetaCafe';
-$l['editor_veoh'] = 'Veoh';
+$l['editor_mixer'] = 'Mixer';
 $l['editor_vimeo'] = 'Vimeo';
 $l['editor_youtube'] = 'Youtube';
 $l['editor_facebook'] = 'Facebook';

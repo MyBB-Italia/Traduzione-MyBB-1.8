@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Compatibile con la versione di MyBB : 1818
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 26 Giugno 2018 11:34:55
+// Ultima modifica: Gio, 23 Agosto 2018 11:06:35
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -78,6 +78,11 @@ $l['show_all_settings'] = 'Mostra tutte le impostazioni';
 $l['settings_search'] = 'Cerca per impostazione';
 $l['confirm_setting_group_deletion'] = 'Sei sicuro di voler eliminare questo gruppo di impostazioni?';
 $l['confirm_setting_deletion'] = 'Sei sicuro di voler eliminare questa impostazione?';
+$l['error_format_dimension'] = 'Il formato definito per "{1}" non è valido.';
+$l['error_field_postmaxavatarsize'] = 'Dimensione massima dell\'avatar nei messaggi';
+$l['error_field_useravatardims'] = 'Dimensioni avatar di default';
+$l['error_field_maxavatardims'] = 'Dimensione massima avatar';
+$l['error_field_memberlistmaxavatarsize'] = 'Massima dimensione visualizzazione avatar';
 $l['error_missing_title'] = 'Non hai inserito il titolo della impostazione';
 $l['error_missing_group_title'] = 'Non hai inserito il titolo del gruppo si impostazioni';
 $l['error_invalid_gid'] = 'Non hai selezionato nessun gruppo dive inserire questa impostazione';
