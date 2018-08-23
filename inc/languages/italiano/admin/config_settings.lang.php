@@ -16,7 +16,7 @@
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
 // Compatibile con la versione di MyBB : 1818
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Gio, 23 Agosto 2018 11:06:35
+// Ultima modifica: Gio, 23 Agosto 2018 12:54:26
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -370,7 +370,7 @@ $l['setting_postsperpage_desc'] = 'Numero di messaggi da visualizzare per ogni p
 $l['setting_userpppoptions'] = 'Messaggi per pagina selezionabili dagli utenti';
 $l['setting_userpppoptions_desc'] = 'Se vuoi dare la possibilità agli utenti di scegliere quanti messaggi visualizzare per ogni pagina, inserisci qui i valori separati da virgola. Se il campo è vuoto gli utenti non potranno scegliere quanti messaggi visualizzare.';
 $l['setting_postmaxavatarsize'] = 'Dimensione massima dell\'avatar nei messaggi';
-$l['setting_postmaxavatarsize_desc'] = 'La dimensione massima dell\'avatar visualizzato nei messaggi. Se l\'avatar è troppo grande verrà automaticamente scalato a questa dimensione.';
+$l['setting_postmaxavatarsize_desc'] = 'La dimensione massima dell\'avatar visualizzato nei messaggi (separa larghezza e altezza con \'x\' o \'|\'). Se l\'avatar è troppo grande verrà automaticamente scalato a questa dimensione.';
 $l['setting_threadreadcut'] = 'Leggi le discussioni nel database (giorni)';
 $l['setting_threadreadcut_desc'] = 'Il numero di giorni prima che si leggano le informazioni di una discussione nel database. Per Board grandi, si raccomanda di non inserire un numero alto per evitare rallentamenti della board. Imposta a  0 per disattivare.';
 $l['setting_threadusenetstyle'] = 'Stile USENET nella visualizzazione delle discussioni';
@@ -465,7 +465,7 @@ $l['setting_siglength_desc'] = 'Il numero massimo di caratteri che si possono in
 $l['setting_useravatar'] = 'Avatar di default';
 $l['setting_useravatar_desc'] = 'Se un utente non imposta un avatar personalizzato questa immagine verrà utilizzata al suo posto. Se vuoi usare un\'immagine diversa per ogni tema, utilizza <strong>{theme}</strong> per rappresentare la cartella delle immagini di ogni tema.';
 $l['setting_useravatardims'] = 'Dimensioni avatar di default';
-$l['setting_useravatardims_desc'] = 'Le dimensioni dell\'avatar di default; larghezza ed altezza (ad esempio 40|40).';
+$l['setting_useravatardims_desc'] = 'Le dimensioni dell\'avatar di default; larghezza ed altezza separati con \'x\' o \'|\' (ad esempio 40|40 o 40x40).';
 $l['setting_useravatarrating'] = 'Valutazione Gravatar';
 $l['setting_useravatarrating_desc'] = 'Consente di impostare il punteggio massimo per Gravatar, se un utente sceglie di utilizzarne uno. Se l\'avatar dell\'utente è superiore a questa valutazione verrà utilizzato l\'avatar di default. Le valutazioni sono:
 
@@ -480,7 +480,7 @@ $l['setting_useravatarrating_pg'] = 'PG';
 $l['setting_useravatarrating_r'] = 'R';
 $l['setting_useravatarrating_x'] = 'X';
 $l['setting_maxavatardims'] = 'Dimensione massima avatar';
-$l['setting_maxavatardims_desc'] = 'Dimensione massima che può avere un avatar, in formato larghezza <b>x</b> altezza. Se vuoto non ci saranno restrizioni sulla dimensione.';
+$l['setting_maxavatardims_desc'] = 'Dimensione massima che può avere un avatar, larghezza e altezza separati con \'x\' o \'|\'. Se vuoto non ci saranno restrizioni sulla dimensione.';
 $l['setting_avatarsize'] = 'Dimensione massima avatar caricabile';
 $l['setting_avatarsize_desc'] = 'Dimensione massima del file (in kilobytes) per caricare l\'avatar. Imposta a 0 per disattivare la limitazione.';
 $l['setting_avatarresizing'] = 'Modalità ridimensionamento avatar';
@@ -570,7 +570,7 @@ $l['setting_default_memberlist_order_desc'] = 'Seleziona l\'ordine in cui far ap
 $l['setting_default_memberlist_order_ascending'] = 'Ascendente';
 $l['setting_default_memberlist_order_descending'] = 'Discendente';
 $l['setting_memberlistmaxavatarsize'] = 'Massima dimensione visualizzazione avatar';
-$l['setting_memberlistmaxavatarsize_desc'] = 'La dimensione massima dell\'avatar quando si visita la lista utenti. Se l\'avatar è troppo grande, verrà automaticamente ridotto.';
+$l['setting_memberlistmaxavatarsize_desc'] = 'La dimensione massima dell\'avatar quando si visita la lista utenti, larghezza e altezza separati con \'x\' o \'|\'. Se l\'avatar è troppo grande, verrà automaticamente ridotto.';
 $l['setting_enablereputation'] = 'Abilita funzione di reputazione';
 $l['setting_enablereputation_desc'] = 'Se vuoi disattivare la reputazione nella tua Board, imposta questa opzione su no.';
 $l['setting_posrep'] = 'Permettere reputazione positiva';
