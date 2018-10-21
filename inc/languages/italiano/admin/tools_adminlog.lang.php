@@ -263,5 +263,5 @@ $l['admin_log_user_users_inline_activated'] = 'Attivato(i) {1} utente(i)';
 $l['admin_log_user_users_inline_lift'] = 'Revocato il ban di {1} utente(i)';
 $l['admin_log_user_mass_mail_delete'] = 'Cancellata e-mail di gruppo #{1} ({2})';
 $l['admin_log_admin_locked_out'] = 'Tentativi di login amministrativi per l\'utente #{1} ({2}) bloccati.';
-$l['admin_log_home_preferences_enabled'] = 'Attiva autenticazione in due fattori';
-$l['admin_log_home_preferences_disabled'] = 'Disattiva autenticazione in due fattori';
+$l['admin_log_home_preferences_enabled'] = 'Attiva autenticazione a due fattori';
+$l['admin_log_home_preferences_disabled'] = 'Disattiva autenticazione a due fattori';
