@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:36:42
+// Ultima modifica: Mer, 6 Marzo 2019 14:48:26
 // --------------------------------------------------------------------------------
 
 $l['users'] = 'Utenti';
@@ -28,7 +28,7 @@ $l['find_users_desc'] = 'Qui puoi cercare utenti del tuo forum. Meno campi vengo
 $l['create_user'] = 'Crea nuovo utente';
 $l['create_user_desc'] = 'Qui puoi creare un nuovo utente.';
 $l['merge_users'] = 'Fondi utenti';
-$l['merge_users_desc'] = 'Qui puoi fondere due account utente in uno solo. L\' "Account Sorgente" sarà unito nell\'"Account Destinazione" conservando <strong>solo</strong> l\'account destinazione. I messaggi dell\'account sorgente, le discussioni, i messaggi privati, gli eventi calendario, il contatore messaggi e la lista amici saranno uniti nell\'account destinazione.<br /><span style="font-size: 15px;">Attenzione! Questo processo non è reversibile.</span>';
+$l['merge_users_desc'] = 'Qui puoi unire due account utente in uno solo. L\' "Account Sorgente" sarà unito nell\'"Account Destinazione" conservando <strong>solo</strong> l\'account destinazione. I messaggi dell\'account sorgente, le discussioni, i messaggi privati, gli eventi calendario, il contatore messaggi e la lista amici saranno uniti nell\'account destinazione.<br /><span style="font-size: 15px;">Attenzione! Questo processo non è reversibile.</span>';
 $l['edit_user'] = 'Modifica utente';
 $l['edit_user_desc'] = 'Qui puoi modificare il profilo di questo utente, le preferenze e la firma; vai alle statistiche generali o visita le altre pagine per ulteriori informazioni riguardanti questo utente.';
 $l['show_referrers'] = 'Mostra i Referrer';

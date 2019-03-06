@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1818
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Gio, 23 Agosto 2018 11:09:35
+// Ultima modifica: Mer, 6 Marzo 2019 16:56:34
 // --------------------------------------------------------------------------------
 
 $l['redirect_width'] = '50%';
@@ -28,6 +28,7 @@ $l['toplinks_search'] = 'Ricerca';
 $l['toplinks_calendar'] = 'Calendario';
 $l['toplinks_help'] = 'Aiuto';
 $l['toplinks_portal'] = 'Portale';
+$l['bottomlinks_forumteam'] = 'Team del forum';
 $l['bottomlinks_contactus'] = 'Contattaci';
 $l['bottomlinks_returntop'] = 'Torna all\'inizio della pagina';
 $l['bottomlinks_syndication'] = 'RSS Syndication';
@@ -268,6 +269,7 @@ $l['postbit_quick_edit'] = 'Modifica rapida';
 $l['postbit_full_edit'] = 'Modifica completa';
 $l['postbit_show_ignored_post'] = 'Visualizza questo messaggio';
 $l['postbit_currently_ignoring_user'] = 'Il contenuto di questo messaggio è nascosto perché {1} si trova nella tua <a href=\'usercp.php?action=editlists\'>lista ignorati</a>.';
+$l['postbit_post_under_moderation'] = 'Il messaggio che hai creato è in fase di moderazione e attualmente non visibile pubblicamente. Il messaggio sarà visibile a tutti non appena un moderatore lo avrà approvato.';
 $l['postbit_warning_level'] = 'Livello di avvertimento:';
 $l['postbit_warn'] = 'Avverti l\'autore per questo messaggio';
 $l['postbit_purgespammer'] = 'Elimina spammer';
@@ -308,8 +310,15 @@ $l['smilieinsert_getmore'] = 'altri';
 $l['on'] = 'Si';
 $l['off'] = 'No';
 $l['remote_avatar_disabled_default_avatar'] = "Stai utilizzando un avatar remoto, il quale è stato disattivato. Al suo posto sarà usato l'avatar di default.";
-$l['unread_report'] = 'Nota per il moderatore: c\'è 1 messaggio segnalato non ancora letto.';
-$l['unread_reports'] = 'Nota per il moderatore: ci sono {1} messaggi segnalati non ancora letti.';
+$l['mod_notice'] = "Attesa Moderazione: {1}.";
+$l['unapproved_thread'] = "1 discussione non approvata";
+$l['unapproved_threads'] = "{1} discussioni non approvate";
+$l['unapproved_post'] = "1 messaggio non approvato";
+$l['unapproved_posts'] = "{1} messaggi non approvati";
+$l['unapproved_attachment'] = "1 allegato non approvato";
+$l['unapproved_attachments'] = "{1} allegati non approvati";
+$l['unread_report'] = "1 messaggio segnalato";
+$l['unread_reports'] = "{1} messaggi segnalati";
 $l['pending_joinrequest'] = 'Nota per il leader del gruppo: c\'è una richiesta d\'iscrizione al gruppo in attesa.';
 $l['pending_joinrequests'] = 'Nota per il leader del gruppo: ci sono {1} richieste d\'iscrizione al gruppo in attesa.';
 $l['search_user'] = 'Cerca un utente';
@@ -387,6 +396,7 @@ $l['deleteevent_confirm'] = 'Sei sicuro di voler cancellare questo evento?';
 $l['removeattach_confirm'] = 'Sei sicuro di voler rimuovere da questo messaggio l\'allegato selezionato?';
 $l['latest_threads'] = 'Ultime discussioni';
 $l['folder_inbox'] = 'Ricevuti';
+$l['folder_unread'] = 'Non letti';
 $l['folder_sent_items'] = 'Inviati';
 $l['folder_drafts'] = 'Bozze';
 $l['folder_trash'] = 'Cestino';

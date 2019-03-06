@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Italian Language Pack
- * Copyright 2018 MyBB Italia
+ * Copyright 2019 MyBB Italia
  *
  */
 
@@ -12,10 +12,10 @@ $langinfo['name'] = "Italiano (Italian)";
 $langinfo['author'] = "MyBB Italia";
 
 // The language authors website
-$langinfo['website'] = "https://www.mybb-it.com/";
+$langinfo['website'] = "https://github.com/MyBB-Italia/";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1819";
+$langinfo['version'] = "1820";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;

@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:32:09 +0000
+// Ultima modifica: Mer, 6 Marzo 2019 16:46:13
 // --------------------------------------------------------------------------------
 
 $l['custom_profile_fields'] = 'Campi utente personalizzati';
@@ -52,7 +52,7 @@ $l['required_desc'] = 'Questo campo è richiesto durante la procedura di registr
 $l['show_on_registration'] = 'Mostrare durante la registrazione?';
 $l['show_on_registration_desc'] = 'Deve essere visibile nella pagina di registrazione? Notare che questo non si applica se il campo non è modificabile. I campi obbligatori verranno sempre visualizzati durante la registrazione.';
 $l['display_on_profile'] = 'Visualizzare nel profilo?';
-$l['display_on_profile_desc'] = 'Questo campo deve essere visibile nel profilo dell\'utente? Non verrà applicato ad amministratori/moderatori.';
+$l['display_on_profile_desc'] = 'Questo campo deve essere visibile nel profilo dell\'utente?';
 $l['display_on_postbit'] = 'Visualizzare nel messaggio?';
 $l['display_on_postbit_desc'] = 'Questo campo deve essere visualizzato nei messaggi dell\'utente?';
 $l['viewableby'] = 'Visibile da';

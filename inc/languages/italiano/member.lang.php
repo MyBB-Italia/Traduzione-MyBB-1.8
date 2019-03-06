@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:54:38
+// Ultima modifica: Mer, 6 Marzo 2019 17:02:27
 // --------------------------------------------------------------------------------
 
 $l['nav_register'] = 'Registrazione';
@@ -26,7 +26,12 @@ $l['nav_lostpw'] = 'Recupero password persa';
 $l['nav_resetpassword'] = 'Reset password';
 $l['nav_login'] = 'Login';
 $l['nav_emailuser'] = 'E-mail utente';
+$l['nav_referrals'] = 'Utenti riferiti da {1}';
 $l['nav_profile'] = 'Profilo di {1}';
+$l['referrals'] = 'Utenti Riferiti';
+$l['referral_date'] = 'Data:';
+$l['referrals_no_user_specified'] = 'Nessun utente specificato.';
+$l['member_no_referrals'] = 'Nessun membro riferito da questo utente.';
 $l['tpp_option'] = 'Mostra {1} discussioni per pagina';
 $l['ppp_option'] = 'Mostra {1} messaggi per pagina';
 $l['account_activation'] = 'Attivazione account';
@@ -175,6 +180,8 @@ $l['membdayage'] = '({1} anni)';
 $l['mod_options'] = 'Opzioni moderatore';
 $l['edit_in_mcp'] = 'Modifica questo utente nel pannello di moderazione';
 $l['ban_in_mcp'] = 'Banna questo utente nel pannello di moderazione';
+$l['edit_ban_in_mcp'] = "Modifica ban nel pannello di moderazione";
+$l['lift_ban_in_mcp'] = "Elimina ban nel pannello di moderazione";
 $l['purgespammer'] = 'Elimina spammer';
 $l['edit_usernotes'] = 'Modifica le note utente nel pannello di moderazione';
 $l['no_usernotes'] = 'Al momento non ci sono note su quest\'utente';

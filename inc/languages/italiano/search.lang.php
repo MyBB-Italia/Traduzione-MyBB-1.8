@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 15:03:22
+// Ultima modifica: Mer, 6 Marzo 2019 17:08:20
 // --------------------------------------------------------------------------------
 
 $l['nav_search'] = 'Cerca';
@@ -47,6 +47,8 @@ $l['sorting_options'] = 'Ordina risultati';
 $l['sort_lastpost'] = 'Ordina risultati per data dell\'ultimo messaggio';
 $l['sort_author'] = 'Ordina risultati per autore';
 $l['sort_forum'] = 'Ordina risultati per forum';
+$l['sort_views'] = "Ordina risultati per numero visualizzazioni";
+$l['sort_replies'] = "Ordina risultati per numero risposte";
 $l['sort_in'] = 'in ordine';
 $l['sort_asc'] = 'crescente';
 $l['sort_desc'] = 'decrescente';

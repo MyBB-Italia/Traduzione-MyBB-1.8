@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1817
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Lun, 16 Luglio 2018 20:52:25
+// Ultima modifica: Mer, 6 Marzo 2019 16:57:12
 // --------------------------------------------------------------------------------
 
 $l['boardstats'] = 'Statistiche board';
@@ -27,7 +27,6 @@ $l['forum_unapproved_posts_count'] = 'Attualmente ci sono {1} messaggi non appro
 $l['forum_unapproved_post_count'] = 'Attualmente c\'è un messaggio non approvato in questo forum.';
 $l['forum_unapproved_threads_count'] = 'Attualmente ci sono {1} discussioni non approvate in questo forum.';
 $l['forum_unapproved_thread_count'] = 'Attualmente c\'è 1 discussione non approvata in questo forum.';
-$l['forumteam'] = 'Team del forum';
 $l['forumstats'] = 'Statistiche forum';
 $l['todays_birthdays'] = 'Compleanni di oggi';
 $l['birthdayhidden'] = 'Nascosto';

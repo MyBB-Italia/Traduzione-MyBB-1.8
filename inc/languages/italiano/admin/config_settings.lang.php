@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1818
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Gio, 23 Agosto 2018 12:54:26
+// Ultima modifica: Mer, 6 Marzo 2019 17:19:34
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -250,6 +250,8 @@ $l['setting_soft_delete'] = 'Abilita Soft Delete agli Utenti';
 $l['setting_soft_delete_desc'] = 'Se abilitato, i messaggi e le discussioni eliminate dagli utenti saranno nascoste e potranno essere ripristinati/e dai moderatori. Altrimenti, questi messaggi e queste discussioni saranno eliminate permanentemente.';
 $l['setting_announcementshtml'] = 'Abilita HTML negli annunci.';
 $l['setting_announcementshtml_desc'] = 'Permettere ai moderatori di utilizzare l\'HTML negli annunci?';
+$l['setting_showownunapproved'] = 'Accesso a discussioni/messaggi non approvati.';
+$l['setting_showownunapproved_desc'] = 'Consente agli utenti generali di accedere alle loro discussioni o ai loro messaggi non approvarti.';
 $l['setting_helpsearch'] = 'Abilita la ricerca nei documenti d\'aiuto';
 $l['setting_helpsearch_desc'] = 'Se attivo, permette agli utenti di cercare nei documenti di aiuto.';
 $l['setting_deleteinvites'] = 'Scadenza inviti vecchio gruppo';
@@ -426,6 +428,8 @@ $l['setting_hiddencaptchaimage'] = 'Visualizzare un CAPTCHA nascosto';
 $l['setting_hiddencaptchaimage_desc'] = 'Vuoi visualizzare un campo CAPTCHA nascosto quando un utente si registra? Ciò può impedire la registrazione di spammer bot.';
 $l['setting_usereferrals'] = 'Sistema referenze utente';
 $l['setting_usereferrals_desc'] = 'Vuoi usare il sistema di referenza utente per questo forum?';
+$l['setting_referralsperpage'] = 'Utenti rigeriti per pagina';
+$l['setting_referralsperpage_desc'] = 'Numero di membri da mostrare in ogni pagina della lista degli utenti referiti.';
 $l['setting_coppa'] = 'Compilazione COPPA';
 $l['setting_coppa_desc'] = 'Se vuoi abilitare il supporto <a href="http://www.coppa.org/comply.htm" target="_blank">COPPA</a> per il tuo forum, seleziona una delle opzioni sottostanti.';
 $l['setting_coppa_enabled'] = 'Abilitata';

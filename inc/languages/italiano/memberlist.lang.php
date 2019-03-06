@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:55:08
+// Ultima modifica: Mer, 6 Marzo 2019 17:05:08
 // --------------------------------------------------------------------------------
 
 $l['nav_memberlist'] = 'Lista Utenti';
@@ -50,6 +50,7 @@ $l['search_member_list'] = 'Cerca nella lista utenti';
 $l['search_criteria'] = 'Criterio di ricerca';
 $l['begins_with'] = 'Comincia con';
 $l['username_contains'] = 'contiene';
+$l['username_exact'] = 'esattamente';
 $l['search_website'] = 'Sito Web';
 $l['search_skype'] = 'Indirizzo Skype';
 $l['search_google'] = 'Indirizzo Google Hangouts';

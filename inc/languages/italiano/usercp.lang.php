@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1820
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 15:09:22
+// Ultima modifica: Mer, 6 Marzo 2019 17:09:32
 // --------------------------------------------------------------------------------
 
 $l['nav_usercp'] = 'Pannello di controllo utente';
@@ -141,7 +141,7 @@ $l['update_notepad'] = 'Aggiorna note';
 $l['edit_options'] = 'Modifica opzioni';
 $l['login_cookies_privacy'] = 'Privacy';
 $l['invisible_mode'] = 'Nascondimi dalla lista degli utenti online.';
-$l['invisible_mode_desc'] = 'Seleziona si per nasconderti nella lista "chi è online".';
+$l['invisible_mode_desc'] = 'Seleziona si per nasconderti nella lista "chi è online". Questa impostazione non ha effetto per gli utenti nella tua lista amici.';
 $l['messaging_notification'] = 'Messaggi e notifiche';
 $l['allow_notices'] = 'Ricevi email dagli amministratori.';
 $l['allow_notices_desc'] = 'Seleziona si per ricevere notizie e newsletter.';
