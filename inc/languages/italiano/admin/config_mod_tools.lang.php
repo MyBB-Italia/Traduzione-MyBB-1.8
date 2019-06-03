@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:31:15 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['mod_tools'] = 'Strumenti di Moderazione';
@@ -69,7 +68,7 @@ $l['delete_redirect_after'] = 'Cancella il reindirizzamento dopo';
 $l['do_not_move_thread'] = 'Non spostare la discussione';
 $l['do_not_copy_thread'] = 'Non copiare la discussione';
 $l['move_thread'] = 'Sposto la discussione?';
-$l['move_thread_desc'] = 'Se si sta spostando una o più discussioni, il "cancella reindirizzamento dopo...giorni" è da riempire solo se un reindirizzamento verrà lasciato.';
+$l['move_thread_desc'] = 'Se si sta spostando una o più discussioni, il "cancella reindirizzamento dopo&hellip; giorni" è da riempire solo se un reindirizzamento verrà lasciato.';
 $l['forum_to_copy_to'] = 'Forum da copiare in:';
 $l['copy_thread'] = 'Copia la discussione?';
 $l['open_close_thread'] = 'Apri/Chiudi Discussione?';

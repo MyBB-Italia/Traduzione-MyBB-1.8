@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1812
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mar, 23 Maggio 2017 16:57:19 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['security_questions'] = 'Domande di sicurezza';
@@ -25,6 +24,7 @@ $l['add_new_question'] = 'Aggiungi nuova domanda';
 $l['add_new_question_desc'] = 'Aggiungi una domanda e le sue risposte per le domande di sicurezza da adoperare durante la registrazione.';
 $l['edit_question'] = 'Modifica domanda';
 $l['edit_question_desc'] = 'Qui è possibile modificare una domanda di sicurezza.';
+$l['preview_question'] = 'Anteprima domanda';
 $l['options'] = 'Opzioni';
 $l['shown'] = 'Mostrata';
 $l['correct'] = 'Corretta';

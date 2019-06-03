@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1809
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Wed, 21 Dec 2016 22:25:56 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['forum_management'] = 'Gestione del Forum';
@@ -173,7 +172,7 @@ $l['add_usergroup_moderator'] = 'Aggiungi gruppo utente moderatore';
 $l['add_user_moderator'] = 'Aggiungi utente moderatore';
 $l['default_view_options'] = 'Opzioni predefinite di visualizzazione';
 $l['default_date_cut'] = 'predefinito: messaggi degli:';
-$l['default_sort_by'] = 'predefinito: ordina per ...';
+$l['default_sort_by'] = 'predefinito: ordina per &hellip;';
 $l['default_sort_order'] = 'Ordine di visualizzazione predefinito:';
 $l['board_default'] = 'Predefinito della board';
 $l['datelimit_1day'] = 'Ultimo giorno';
@@ -255,4 +254,4 @@ $l['polls_field_canpostpolls'] = 'Può inserire sondaggi?';
 $l['polls_field_canvotepolls'] = 'Può votare nei sondaggi?';
 $l['misc_field_cansearch'] = 'Può cercare nel forum?';
 $l['confirm_proceed_deletion'] = "Clicca \"Procedi\" per continuare l'eliminazione del forum.";
-$l['automatically_redirecting'] = "Reindirizzamento automatico...";
+$l['automatically_redirecting'] = "Reindirizzamento automatico&hellip;";

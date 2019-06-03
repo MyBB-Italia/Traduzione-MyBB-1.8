@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:37:56 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['recount_rebuild'] = 'Ricalcola e Ricostruisci';
@@ -59,4 +58,4 @@ $l['success_rebuilt_thread_ratings'] = 'Le valutazioni delle discussioni sono st
 $l['success_rebuilt_attachment_thumbnails'] = 'Le anteprime degli allegati sono state ricostruite con successo.';
 $l['success_rebuilt_forum_stats'] = 'Le statistiche del forum sono state ricostruite con successo.';
 $l['confirm_proceed_rebuild'] = 'Clicca su "Procedi" per continuare il processo';
-$l['automatically_redirecting'] = 'Reindirizzamento automatico...';
+$l['automatically_redirecting'] = 'Reindirizzamento automatico&hellip;';

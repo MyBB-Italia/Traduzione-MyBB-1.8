@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:33:32
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['themes'] = 'Temi';
@@ -202,7 +201,7 @@ $l['success_stylesheet_added'] = 'Il foglio di stile per questo tema è stato cr
 $l['success_stylesheet_order_updated'] = 'L\'ordine di visualizzazione dei fogli di stile è stato aggiornato.';
 $l['confirm_theme_deletion'] = 'Sei sicuro di voler eliminare questo tema?';
 $l['confirm_stylesheet_deletion'] = 'Sei sicuro di voler eliminare / ripristinare questo foglio distile?';
-$l['confirm_theme_forced'] = 'Sei sicuro di voler obbligare gli utenti a usare questo tema?';
+$l['confirm_theme_forced'] = 'Sei sicuro di voler obbligare gli utenti a usare questo tema? Potrebbe reimpostare il livello di accesso del tema.';
 $l['theme_info_fetch_error'] = 'Si è verificato un errore cercando di recuperare le informazioni di stile.';
 $l['theme_info_save_error'] = 'Si è verificato un errore durante il salvataggio delle informazioni di stile.';
-$l['saving'] = 'Salvataggio..';
+$l['saving'] = 'Salvataggio&hellip;';

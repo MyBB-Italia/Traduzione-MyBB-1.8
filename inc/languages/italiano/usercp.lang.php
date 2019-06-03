@@ -14,9 +14,8 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1820
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 6 Marzo 2019 17:09:32
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['nav_usercp'] = 'Pannello di controllo utente';
@@ -90,8 +89,8 @@ $l['ignore_list_empty'] = 'La tua lista ignorati è vuota. Per inserire degli ut
 $l['buddy_list_empty'] = 'La tua lista amici è vuota. Per inserire degli utenti basta scrivere il nome utente qui sopra.';
 $l['confirm_remove_buddy'] = 'Rimuovo questo utente dalla lista amici?';
 $l['confirm_remove_ignored'] = 'Rimuovo questo utente dalla lista ignorati?';
-$l['adding_buddy'] = 'Aggiungo amico..';
-$l['adding_ignored'] = 'Aggiungo ignorato...';
+$l['adding_buddy'] = 'Aggiungendo amico&hellip;';
+$l['adding_ignored'] = 'Aggiungendo ignorato&hellip;';
 $l['add_buddies'] = 'Aggiungi utente alla lista amici';
 $l['add_buddies_desc'] = 'Per aggiungere uno o più utenti alla lista amici, inserisci il nome utente qui sotto. Separa gli utenti con una virgola.';
 $l['username_or_usernames'] = 'Nome utente:';

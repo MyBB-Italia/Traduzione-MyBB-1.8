@@ -14,9 +14,8 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1820
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 6 Marzo 2019 17:19:34
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -98,7 +97,7 @@ $l['error_cannot_edit_default'] = 'Le impostazioni e gruppi predefiniti non poss
 $l['error_cannot_edit_php'] = 'Questa impostazione è di tipo speciale e non può essere modificata.';
 $l['error_ajax_search'] = 'Vi sono problemi a cercare questa impostazione:';
 $l['error_ajax_unknown'] = 'Errore sconosciuto durante la ricerca di questa impostazione.';
-$l['error_chmod_settings_file'] = 'Il file delle impostazioni "./inc/settings.php" non è scrivibile. Per favore imposta il CHMOD a 777.<br />Per maggiori informazioni leggi le <a href="http://docs.mybb.com/HowTo_Chmod.html" target="_blank" rel="noopener">documentazioni di MyBB</a>.';
+$l['error_chmod_settings_file'] = 'Il file delle impostazioni "./inc/settings.php" non è scrivibile. Per favore imposta il CHMOD a 666.<br />Per maggiori informazioni leggi le <a href="http://docs.mybb.com/HowTo_Chmod.html" target="_blank" rel="noopener">documentazioni di MyBB</a>.';
 $l['success_setting_added'] = 'Impostazione creata con successo.';
 $l['success_setting_updated'] = 'Impostazione aggiornata con successo.';
 $l['success_setting_deleted'] = 'Impostazione eliminata con successo.';
@@ -112,7 +111,7 @@ $l['success_setting_group_added'] = 'Il gruppo di impostazioni è stato aggiunto
 $l['success_setting_group_updated'] = 'Il gruppo di impostazioni è stato aggiornato con successo.';
 $l['success_setting_group_deleted'] = 'Il gruppo di impostazioni è stato eliminato con successo.';
 $l['success_duplicate_settings_deleted'] = 'Tutte le impostazioni duplicate sono state eliminate.';
-$l['searching'] = 'Ricerca..';
+$l['searching'] = 'Ricerca&hellip;';
 $l['search_error'] = 'Si è verificato un errore durante il recupero dei risultati della ricerca:';
 $l['search_done'] = 'Fatto!';
 $l['setting_group_onlineoffline'] = 'Apertura / Chiusura Board';

@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:27:58 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['nav_stats'] = 'Statistiche del forum';
@@ -40,7 +39,7 @@ $l['newest_member'] = 'Ultimo utente registrato:';
 $l['members_posted'] = 'Utenti che hanno inviato messaggi:';
 $l['todays_top_poster'] = 'Utente che ha inviato più messaggi oggi: <b>{1}</b> (<b>{2}</b> messaggi)';
 $l['popular_forum'] = 'Forum più popolare: <b>{1}</b> (<b>{2}</b> messaggi, <b>{3}</b> discussioni)';
-$l['most_popular'] = 'Più popolare...';
+$l['most_popular'] = 'Più popolare&hellip;';
 $l['most_replied_threads'] = 'Discussioni con più risposte';
 $l['most_viewed_threads'] = 'Discussioni più visitate';
 $l['not_enough_info_stats'] = 'Spiacente, non ci sono abbastanza informazioni su questa board per generare statistiche. Questa board deve contenere almeno 1 membro ed 1 discussione affinché le statistiche siano generate.';

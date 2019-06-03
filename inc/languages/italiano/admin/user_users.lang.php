@@ -14,9 +14,8 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1820
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 6 Marzo 2019 14:48:26
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['users'] = 'Utenti';
@@ -324,7 +323,7 @@ $l['show_referred_users'] = 'Mostra utenti con referrer';
 $l['show_attachments'] = 'Mostra allegati';
 $l['table_view'] = 'Visualizzazione tabellare';
 $l['card_view'] = 'Visualizzazione a biglietto';
-$l['find_users_where'] = 'Trova utente dove...';
+$l['find_users_where'] = 'Trova utente dove&hellip;';
 $l['username_contains'] = 'L\'username contiene';
 $l['email_address_contains'] = 'L\'indirizzo Email contiene';
 $l['is_member_of_groups'] = 'È membro di uno o più di questi gruppi utente';
@@ -343,7 +342,7 @@ $l['thread_count_is'] = 'Il contatore discussioni è';
 $l['reg_ip_matches'] = 'L\'indirizzo IP di registrazione corrisponde a';
 $l['wildcard'] = 'Per cercare in un intervallo di indirizzi IP usa * (Es. 127.0.0.*) oppure CIDR (Es: 127.0.0.0/8)';
 $l['posted_with_ip'] = 'Ha inviato messaggi con l\'indirizzo IP';
-$l['custom_profile_fields_match'] = 'I campi personalizzati corrispondono a';
+$l['custom_profile_fields_match'] = 'I campi personalizzati corrispondono a&hellip;';
 $l['is_not_blank'] = ' non è vuoto';
 $l['or'] = 'o';
 $l['reg_in_x_days'] = 'Registrati negli ultimi';

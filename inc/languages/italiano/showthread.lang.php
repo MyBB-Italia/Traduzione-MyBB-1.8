@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1818
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Gio, 23 Agosto 2018 11:18:25
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['delete_poll'] = 'Elimina il sondaggio';
@@ -86,7 +85,7 @@ $l['messages_in_thread'] = 'Messaggi in questa discussione';
 $l['users_browsing_thread'] = 'Utenti che stanno guardando questa discussione:';
 $l['users_browsing_thread_guests'] = '{1} Ospite(i)';
 $l['users_browsing_thread_invis'] = '{1} Utente(i) Invisibile(i)';
-$l['users_browsing_thread_reading'] = 'Leggendo...';
+$l['users_browsing_thread_reading'] = 'Leggendo&hellip;';
 $l['inline_soft_delete_posts'] = 'Cancella messaggi in modo soft';
 $l['inline_restore_posts'] = 'Ripristina messaggi';
 $l['inline_delete_posts'] = 'Cancella messaggi in modo definitivo';

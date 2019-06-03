@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1818
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Gio, 23 Agosto 2018 11:13:37
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['click_no_wait'] = 'Clicca qui se non vuoi aspettare.';
@@ -110,7 +109,7 @@ $l['emailsubject_newpm'] = 'Nuovo Messaggio Privato di {1} - {2}';
 $l['emailsubject_newjoinrequest'] = 'Nuova richiesta di iscrizione in {1}';
 $l['emailsubject_sendtofriend'] = 'Discussione interessante in {1}';
 $l['emailsubject_changepassword'] = 'Cambio password di {1}';
-$l['emailbit_viewthread'] = '... (visita la discussione per leggere di più..)';
+$l['emailbit_viewthread'] = '&hellip; (visita la discussione per leggere di più&hellip;)';
 $l['email_lostpw'] = '{1},
 
 Per poter completare il reset della password del tuo account {2}, devi andare, tramite il tuo browser, all\'indirizzo URL segnalato di seguito.

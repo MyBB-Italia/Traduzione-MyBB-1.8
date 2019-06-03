@@ -13,14 +13,13 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:36:29 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['file_verification'] = 'Verifica File';
-$l['checking'] = 'Controllo in corso..';
+$l['checking'] = 'Controllo in corso&hellip;';
 $l['file_verification_message'] = 'Questo processo controllerà tutti i file di default di MyBB per verificarne la validità. Fai click su Si per continuare.<br /> <small>NB: questo processo non può distinguere personalizzazioni manuali ai file da reali danneggiamenti, quindi è sempre necessario essere cauti nel riportare allo stato originale i file che questa funzionalità indica come "danneggiati" o "modificati".</small>';
 $l['error_communication'] = 'C\'è stato un problema nella comunicazione con il server di MyBB. Riprova tra qualche minuto.';
 $l['file'] = 'File';

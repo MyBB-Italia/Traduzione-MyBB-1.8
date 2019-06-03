@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:38:18 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['system_health'] = 'Stato del sistema';
@@ -30,7 +29,7 @@ $l['convert_to_utf8'] = 'Stai per convertire la tabella "{1}" in codifica UTF-8 
 $l['convert_all_to_utf'] = 'Stai per convertire TUTTE le tabelle in codifica UTF-8 da codifica {1}.';
 $l['convert_all_to_utf8mb4'] = 'Stai per convertire TUTTE le tabelle in codifica 4-Byte UTF-8 Unicode da codifica {1}.';
 $l['converting_to_utf8mb4'] = 'MyBB sta convertendo la tabella "{1}" in 4-Byte UTF-8 Unicode da codifica {2}.';
-$l['please_wait'] = 'Attendere prego...';
+$l['please_wait'] = 'Attendere prego&hellip;';
 $l['converting_table'] = 'Convertendo le tabelle:';
 $l['convert_table'] = 'Converti tabella';
 $l['convert_tables'] = 'Converti tutte le tabelle';

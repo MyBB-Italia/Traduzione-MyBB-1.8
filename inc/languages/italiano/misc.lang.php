@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:58:27
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['nav_helpdocs'] = 'Documenti di aiuto';
@@ -73,6 +72,7 @@ $l['syndication_forum'] = 'Forum per syndicate:';
 $l['syndication_forum_desc'] = 'Per favore seleziona un forum a destra. Usa il tasto CTRL per selezionare più forum.';
 $l['syndication_version'] = 'Versione feed:';
 $l['syndication_version_desc'] = 'Per favore seleziona la versione dei feed che vuoi generare.';
+$l['syndication_version_json1'] = 'JSON Feed 1';
 $l['syndication_version_atom1'] = 'Atom 1.0';
 $l['syndication_version_rss2'] = 'RSS 2.00 (predefinito)';
 $l['syndication_generate'] = 'Genera URL syndication';

@@ -14,9 +14,8 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1820
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 6 Marzo 2019 16:56:34
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['redirect_width'] = '50%';
@@ -146,8 +145,8 @@ $l['multipage_last'] = 'Ultima';
 $l['multipage_first'] = 'Prima';
 $l['multipage_next'] = 'Prossima';
 $l['multipage_previous'] = 'Precedente';
-$l['multipage_link_start'] = ' ...';
-$l['multipage_link_end'] = '... ';
+$l['multipage_link_start'] = ' &hellip;';
+$l['multipage_link_end'] = '&hellip; ';
 $l['multipage_jump'] = 'Vai a pagina';
 $l['editor_bold'] = 'Grassetto';
 $l['editor_italic'] = 'Corsivo';
@@ -411,8 +410,8 @@ $l['error_empty_post_input'] = 'Si è verificato un problema perché i dati dell
 $l['error_database_repair'] = 'MyBB sta riparando automaticamente una tabella rovinata.';
 $l['unknown_user_trigger'] = 'Si è verificato un errore sconosciuto.';
 $l['warnings'] = 'Si sono verificati i seguenti errori:';
-$l['ajax_loading'] = 'Caricamento... <br />Attendere...';
-$l['saving_changes'] = 'Salvataggio delle modifiche in corso...';
+$l['ajax_loading'] = 'Caricamento. <br />Attendere&hellip;';
+$l['saving_changes'] = 'Salvataggio delle modifiche in corso&hellip;';
 $l['refresh'] = 'Aggiorna';
 $l['select_language'] = 'Selezione rapida della lingua';
 $l['select_theme'] = 'Selezione rapida del tema';
@@ -536,8 +535,8 @@ $l['select2_inputtoolong_single'] = 'Cancella un carattere';
 $l['select2_inputtoolong_plural'] = 'Cancella {1} caratteri';
 $l['select2_selectiontoobig_single'] = 'Puoi selezionare solo un oggetto';
 $l['select2_selectiontoobig_plural'] = 'Puoi selezionare solo {1} oggetti';
-$l['select2_loadmore'] = 'Carico altri risultati…';
-$l['select2_searching'] = 'Ricerca in corso…';
+$l['select2_loadmore'] = 'Caricando altri risultati&hellip;';
+$l['select2_searching'] = 'Ricerca in corso&hellip;';
 $l['stopforumspam_error_decoding'] = 'Errore di decodifica dati da StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Errore di ricezione dati da StopForumSpam.com.';
 $l['stopforumspam_invalid_email'] = 'Indirizzo email non valido durante il controllo con le API di StopForumSpam.com.';

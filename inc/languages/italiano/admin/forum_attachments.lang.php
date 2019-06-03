@@ -14,9 +14,8 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1813
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 8 Novembre 2017 14:02:40
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['attachments'] = 'Allegati';
@@ -74,9 +73,9 @@ $l['step2of2'] = 'Step 2 di 2 - Scansione database';
 $l['step1of2_line1'] = 'Prego attendere, Si stanno scansionendo i file di sistema alla ricerca di allegati orfani.';
 $l['step2of2_line1'] = 'Prego attendere, Si stanno scansionendo il database alla ricerca di allegati orfani.';
 $l['step_line2'] = 'Sarai reindirizzato al prossimo step alla fine della ricerca.';
-$l['scanning'] = 'Scansione..';
+$l['scanning'] = 'Scansione&hellip;';
 $l['index_find_attachments'] = 'Allegati - Allegati trovati';
-$l['find_where'] = 'Dove cercare allegati...';
+$l['find_where'] = 'Dove cercare allegati&hellip;';
 $l['name_contains'] = 'Il nome file contiene';
 $l['name_contains_desc'] = 'Per ricercare tramite caratteri speciali inserisci *.[estensione file]. Esempio: *.zip.';
 $l['type_contains'] = 'Tipo di file contiene';

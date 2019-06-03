@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1818
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Gio, 23 Agosto 2018 11:07:12
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['today_rel'] = '<span title="{1}">Oggi</span>';
@@ -166,7 +165,7 @@ $l['december'] = 'Dicembre';
 $l['access_denied'] = 'Accesso negato';
 $l['access_denied_desc'] = 'Non hai i permessi per accedere a questa parte della amministrazione.';
 $l['cannot_perform_action_super_admin_general'] = 'Spiacente, non puoi effettuare queste azioni perchè non sei un super amministratore.<br /><br />Per eseguire questa azione, devi aggiungere il tuo ID utente nella lista dei super amministratori nel file inc/config.php.';
-$l['loading_text'] = 'Caricamento<br />Attendere prego...';
+$l['loading_text'] = 'Caricamento<br />Attendere prego&hellip;';
 $l['timezone_gmt_minus_1200'] = '(GMT -12:00) Isole Howland e Baker';
 $l['timezone_gmt_minus_1100'] = '(GMT -11:00) Nome, Atollo di Midway';
 $l['timezone_gmt_minus_1000'] = '(GMT -10:00) Hawaii, Papete';

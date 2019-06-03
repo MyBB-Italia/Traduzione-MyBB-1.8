@@ -13,10 +13,9 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1808
-// Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Sat, 12 Mar 2016 18:39:44 +0000
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1821
+// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
 // --------------------------------------------------------------------------------
 
 $l['mass_mail'] = 'E-mail di gruppo';
@@ -55,9 +54,9 @@ $l['auto_gen_plain_text'] = 'Tenta di generare in modo automatico la versione te
 $l['define_text_version'] = 'Definisci la versione testo semplice';
 $l['define_text_version_desc'] = 'Inserisci la versione testo semplice del messaggio';
 $l['define_the_recipients'] = 'Definisci i destinatari';
-$l['username_contains'] = 'Il nome utente contiene ...';
-$l['email_addr_contains'] = 'L\'indirizzo e-mail contiene ...';
-$l['members_of'] = 'È membro di questi gruppi ...';
+$l['username_contains'] = 'Il nome utente contiene&hellip;';
+$l['email_addr_contains'] = 'L\'indirizzo e-mail contiene&hellip;';
+$l['members_of'] = 'È membro di questi gruppi&hellip;';
 $l['greater_than'] = 'Maggiore di';
 $l['is_exactly'] = 'È esattamente';
 $l['less_than'] = 'Minore di';
