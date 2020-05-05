@@ -14,8 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
+// Compatibile con la versione di MyBB : 1822
+// Modificato l'ultima volta nell'editor da : chack1172
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['board_settings'] = 'Impostazioni della Board';
@@ -51,6 +52,7 @@ $l['group_selection_box'] = 'Box di selezione gruppo';
 $l['group_selection_single'] = 'Box di selezione gruppo singola';
 $l['adminlanguage'] = 'Box selezione lingua amministrazione';
 $l['cpstyle'] = 'Box controllo style pannello';
+$l['prefix_selection_box'] = 'Box selezione prefisso';
 $l['php'] = 'Valutato da PHP';
 $l['type'] = 'Tipo';
 $l['extra'] = 'Extra';
@@ -799,8 +801,6 @@ $l['setting_stopforumspam_log_blocks'] = 'Log dei blocchi StopForumSpam?';
 $l['setting_stopforumspam_log_blocks_desc'] = 'Registrare ogni blocco da parte di StopForumSpam?';
 $l['setting_allowicqfield'] = 'Consenti il campo Numero ICQ ai gruppi utente';
 $l['setting_allowicqfield_desc'] = 'Selezionare i gruppi utente che hanno il permesso di utilizzare il campo di contatto relativo al numero ICQ.';
-$l['setting_allowyahoofield'] = 'Consenti il campo ID Yahoo ai gruppi utente';
-$l['setting_allowyahoofield_desc'] = 'Selezionare i gruppi utente che hanno il permesso di utilizzare il campo di contatto relativo al ID Yahoo.';
 $l['setting_allowskypefield'] = 'Consenti il campo ID Skype ai gruppi utente';
 $l['setting_allowskypefield_desc'] = 'Selezionare i gruppi utente che hanno il permesso di utilizzare il campo di contatto relativo al ID Skype.';
 $l['setting_allowgooglefield'] = 'Consenti il campo ID Google Hangouts ai gruppi utente';

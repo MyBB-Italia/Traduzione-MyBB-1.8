@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1820
+// Compatibile con la versione di MyBB : 1822
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 6 Marzo 2019 17:08:20
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['nav_search'] = 'Cerca';
@@ -82,7 +82,7 @@ $l['unstick_threads'] = 'Togli discussioni da rilievo';
 $l['soft_delete_threads'] = 'Cancella discussioni in modo soft';
 $l['restore_threads'] = 'Ripristina discussioni';
 $l['delete_threads'] = 'Elimina discussioni permanentemente';
-$l['move_threads'] = 'Sposta discussioni';
+$l['move_threads'] = 'Sposta / copia discussioni';
 $l['approve_threads'] = 'Approva discussioni';
 $l['unapprove_threads'] = 'Non approvare discussioni';
 $l['inline_soft_delete_posts'] = 'Cancella messaggi in modo soft';

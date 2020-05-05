@@ -14,8 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
+// Compatibile con la versione di MyBB : 1822
+// Modificato l'ultima volta nell'editor da : chack1172
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['click_no_wait'] = 'Clicca qui se non vuoi aspettare.';
@@ -94,6 +95,7 @@ $l['failed_login_wait'] = 'Hai fallito tutti i tuoi tentativi di login, a dispos
 $l['failed_login_again'] = '<br/>Hai ancora <strong>{1}</strong> tentativi di login, a disposizione.';
 $l['error_max_emails_day'] = 'Non puoi usare la funzionalità  \'Invia discussione ad un amico\' o la \'Email ad utente\' perchè hai già esaurito tutta la tua quota di {1} messaggi inviabili in 24 ore.';
 $l['attachments_disabled'] = 'Non puoi usare il sistema degli allegati perchè è stato disattivato dall\'Amministratore.';
+$l['error_attach_filename_length'] = "Il nome del file '{1}' supera la lunghezza massima di {2}. Carica un file con un nome più corto.";
 $l['emailsubject_lostpw'] = 'Reset della Password di {1}';
 $l['emailsubject_passwordreset'] = 'Nuova password di {1}';
 $l['emailsubject_subscription'] = 'Nuova Risposta a {1}';

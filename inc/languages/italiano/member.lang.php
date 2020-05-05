@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1820
+// Compatibile con la versione di MyBB : 1822
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 6 Marzo 2019 17:02:27
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['nav_register'] = 'Registrazione';
@@ -74,7 +74,6 @@ $l['homepage'] = 'Home page:';
 $l['pm'] = 'Messaggi privati:';
 $l['send_pm'] = 'Invia a {1} un messaggio privato.';
 $l['icq_number'] = 'Numero ICQ:';
-$l['yahoo_id'] = 'ID Yahoo:';
 $l['skype_id'] = 'ID Skype:';
 $l['google_id'] = 'ID Google Hangouts:';
 $l['avatar'] = 'Avatar:';

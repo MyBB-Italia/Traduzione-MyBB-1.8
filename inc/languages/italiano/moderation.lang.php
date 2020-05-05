@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1818
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1822
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Gio, 23 Agosto 2018 11:16:10
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['nav_deletethread'] = 'Cancella discussione in modo definitivo';
@@ -35,7 +35,7 @@ $l['nav_multi_deleteposts'] = 'Cancella messaggi inline';
 $l['nav_multi_splitposts'] = 'Dividi i messaggi selezionati';
 $l['nav_multi_moveposts'] = 'Sposta i messaggi selezionati';
 $l['nav_multi_mergeposts'] = 'Unisci i messaggi selezionati';
-$l['nav_multi_movethreads'] = 'Sposta discussioni';
+$l['nav_multi_movethreads'] = 'Sposta / copia discussioni';
 $l['no_mod_options'] = 'Questa discussione non è mai stata moderata.';
 $l['no_delayed_mods'] = 'Nessuna operazione di moderazione programmata per la(e) discussione(i) selezionate.';
 $l['delete_poll'] = 'Cancella sondaggio';
@@ -88,7 +88,7 @@ $l['confirm_execute_tool'] = 'Esegui strumento';
 $l['confirm_execute_tool_desc'] = 'Sei sicuro di voler eseguire lo <strong>{1}</strong> strumento di moderazione personalizzato? Una volta eseguito non è possibile ripristinare le modifiche effettuate.';
 $l['delete_threads'] = 'Cancella discussioni in modo definitivo';
 $l['confirm_delete_threads'] = 'Sei sicuro di voler cancellare la discussione selezionata? Una volta cancellata, la discussione non può essere recuperata e qualsiasi messaggio, allegato o sondaggio inclusi nella discussioni sarà  anch\'esso cancellato.';
-$l['move_threads'] = 'Sposta discussioni';
+$l['move_threads'] = 'Sposta / copia discussioni';
 $l['confirm_delete_posts'] = 'Sei sicuro di voler rimuovere i messaggi selezionati dalla discussione? Una volta cancellati, non potranno essere recuperati. Se non rimane più alcun messaggio nella discussione anch\'essa verrà  cancellata.';
 $l['post_separator'] = 'Divisore dei messaggi';
 $l['new_line'] = 'Nuova riga';
@@ -131,7 +131,7 @@ $l['multi_restore_posts'] = 'Messaggi selezionati ripristinati';
 $l['multi_soft_delete_posts'] = 'Messaggi selezionati eliminati in modo soft';
 $l['multi_stuck_threads'] = 'Discussioni importanti';
 $l['multi_unstuck_threads'] = 'Discussioni non importanti';
-$l['multi_moved_threads'] = 'Discussioni spostate';
+$l['multi_moved_threads'] = 'Discussioni spostate / copiate';
 $l['multi_copied_threads'] = 'Discussioni copiate';
 $l['custom_tool'] = 'Comando di moderazione personalizzato: {1}';
 $l['delayed_moderation'] = 'Moderazione Programmata';
@@ -211,7 +211,7 @@ $l['redirect_inline_threadsopened'] = 'Le discussioni selezionate sono state ape
 $l['redirect_inline_threadsclosed'] = 'Le discussioni selezionate sono state chiuse.<br />Stai per essere reindirizzato alla posizione precedente.';
 $l['redirect_inline_threadsstuck'] = 'Le discussioni selezionate sono state messe In Rilievo.<br />Stai per essere reindirizzato alla posizione precedente.';
 $l['redirect_inline_threadsunstuck'] = 'Le discussioni selezionate non sono più in rilievo.<br />Stai per essere reindirizzato alla posizione precedente.';
-$l['redirect_inline_threadsmoved'] = 'Le discussioni selezionate sono state spostate.<br />Stai per essere reindirizzato al nuovo forum in cui esse si trovano.';
+$l['redirect_inline_threadsmoved'] = 'Le discussioni selezionate sono state spostate / copiate.<br />Stai per essere reindirizzato al nuovo forum in cui esse si trovano.';
 $l['redirect_inline_threadsapproved'] = 'Le discussioni selezionate sono state approvate.<br />Stai per essere reindirizzato alla posizione precedente.';
 $l['redirect_inline_threadsunapproved'] = 'Le discussioni selezionate non sono state approvate.<br />Stai per essere reindirizzato alla posizione precedente.';
 $l['redirect_inline_threadsrestored'] = 'Le discussioni selezionate sono state ripristinate.<br />Stai per essere reindirizzato alla posizione precedente.';

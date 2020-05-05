@@ -14,8 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
+// Compatibile con la versione di MyBB : 1822
+// Modificato l'ultima volta nell'editor da : chack1172
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['users'] = 'Utenti';
@@ -160,7 +161,6 @@ $l['custom_user_title'] = 'Titolo utente personalizzato';
 $l['custom_user_title_desc'] = 'Se vuoto, sarà utilizzato il titolo utente del gruppo';
 $l['website'] = 'Sito WEB';
 $l['icq_number'] = 'Numero ICQ';
-$l['yahoo_messanger_handle'] = 'Contatto Yahoo! Messenger';
 $l['skype_handle'] = 'Contatto Skype';
 $l['google_handle'] = 'Contatto Google Hangouts';
 $l['birthday'] = 'Data di nascita';
@@ -329,7 +329,6 @@ $l['email_address_contains'] = 'L\'indirizzo Email contiene';
 $l['is_member_of_groups'] = 'È membro di uno o più di questi gruppi utente';
 $l['website_contains'] = 'Il sito WEB contiene';
 $l['icq_number_contains'] = 'Il numero ICQ contiene';
-$l['yahoo_contains'] = 'Il contatto Yahoo! Messenger contiene';
 $l['skype_contains'] = 'Il contatto Skype contiene';
 $l['google_contains'] = 'Il contatto Google Hangouts contiene';
 $l['signature_contains'] = 'La firma contiene';

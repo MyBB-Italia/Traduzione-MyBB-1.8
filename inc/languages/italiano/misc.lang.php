@@ -14,19 +14,18 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
+// Compatibile con la versione di MyBB : 1822
+// Modificato l'ultima volta nell'editor da : chack1172
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['nav_helpdocs'] = 'Documenti di aiuto';
 $l['nav_smilies'] = 'Lista smilie';
 $l['nav_syndication'] = 'Syndication ultima discussione (RSS)';
 $l['skype'] = 'Skype';
-$l['yahoo_im'] = 'Yahoo IM';
 $l['skype_center'] = 'Centro Skype';
 $l['chat_on_skype'] = 'Invia a {1} un messaggio con Skype';
 $l['call_on_skype'] = 'Chiama {1} con Skype';
-$l['yahoo_center'] = 'Centro Yahoo!';
 $l['send_me_instant'] = 'Mandami un messaggio istantaneo';
 $l['add_me_buddy_list'] = 'Aggiungimi alla tua lista amici';
 $l['add_remote_to_page'] = 'Aggiungi telecomando alla tua Pagina';

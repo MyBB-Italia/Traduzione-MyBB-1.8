@@ -14,8 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
+// Compatibile con la versione di MyBB : 1822
+// Modificato l'ultima volta nell'editor da : chack1172
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['today_rel'] = '<span title="{1}">Oggi</span>';
@@ -116,10 +117,13 @@ $l['seconds_short'] = 's';
 $l['permanent'] = 'Permanente';
 $l['all_forums'] = 'Tutti i Forum';
 $l['all_groups'] = 'Tutti i Gruppi';
+$l['all_prefix'] = 'Tutti i Prefissi';
 $l['select_forums'] = 'Seleziona forum';
 $l['select_groups'] = 'Seleziona gruppi';
+$l['select_prefix'] = 'Seleziona prefissi';
 $l['forums_colon'] = 'Forum:';
 $l['groups_colon'] = 'Gruppi:';
+$l['prefix_colon'] = 'Prefissi:';
 $l['none'] = 'Nessuno';
 $l['mybb_acp'] = 'MyBB ACP';
 $l['pages'] = 'Pagine';

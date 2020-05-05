@@ -14,9 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1820
+// Compatibile con la versione di MyBB : 1822
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Mer, 6 Marzo 2019 17:05:08
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['nav_memberlist'] = 'Lista Utenti';
@@ -54,7 +54,6 @@ $l['username_exact'] = 'esattamente';
 $l['search_website'] = 'Sito Web';
 $l['search_skype'] = 'Indirizzo Skype';
 $l['search_google'] = 'Indirizzo Google Hangouts';
-$l['search_yahoo'] = 'Nome Yahoo! Messenger';
 $l['search_icq'] = 'Numero ICQ';
 $l['search_options'] = 'Opzioni di ricerca';
 $l['per_page'] = 'Risultati per pagina';

@@ -14,8 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
+// Compatibile con la versione di MyBB : 1822
+// Modificato l'ultima volta nell'editor da : chack1172
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['nav_usercp'] = 'Pannello di controllo utente';
@@ -219,7 +220,6 @@ $l['profile_optional'] = 'Campi opzionali';
 $l['website_url'] = 'URL del tuo sito internet:';
 $l['birthdate'] = 'Data di nascita:';
 $l['contact_field_icq'] = 'Numero ICQ:';
-$l['contact_field_yahoo'] = 'ID Yahoo:';
 $l['contact_field_skype'] = 'ID Skype:';
 $l['contact_field_google'] = 'ID Google Hangouts:';
 $l['additional_information'] = 'Informazioni aggiuntive';

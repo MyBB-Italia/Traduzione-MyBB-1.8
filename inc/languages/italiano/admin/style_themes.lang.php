@@ -14,8 +14,9 @@
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
 // Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
-// Compatibile con la versione di MyBB : 1821
-// Ultima modifica: Lun, 3 Giugno 2019 da chack1172
+// Compatibile con la versione di MyBB : 1822
+// Modificato l'ultima volta nell'editor da : chack1172
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['themes'] = 'Temi';
@@ -94,7 +95,7 @@ $l['all_user_groups'] = 'Tutti i gruppi utente';
 $l['template_set'] = 'Set templates';
 $l['template_set_desc'] = 'Specifica quali templates devono essere usate per questi tema. I templates selezionati contengono il codice (HTML) usato per questo tema.';
 $l['editor_theme'] = 'Modifica dello stile';
-$l['editor_theme_desc'] = 'Specifica lo stile da usare per il MyCode in questo tema. Il file per la modifica dello stile è presente nella cartella <strong>jscripts/editor_themes</strong>.';
+$l['editor_theme_desc'] = 'Specifica lo stile da usare per il MyCode in questo tema. Il file per la modifica dello stile è presente nella cartella <strong>jscripts/sceditor/themes</strong>.';
 $l['img_directory'] = 'Cartella immagini';
 $l['img_directory_desc'] = 'Il percorso della cartella contenente i file da usare per il tema. Questo specifica solo la cartella che contiene le immagini, non i fogli di stile. ';
 $l['logo'] = 'Logo della Board';

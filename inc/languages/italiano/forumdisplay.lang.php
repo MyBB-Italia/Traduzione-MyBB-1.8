@@ -13,10 +13,10 @@
 // ================================================================================
 // Nome della lingua : Italiano (Italian)
 // Autore del pacchetto lingua : MyBB Italia
-// Sito web traduttori del pacchetto lingua : https://www.mybb-it.com
-// Compatibile con la versione di MyBB : 1816
+// Sito web traduttori del pacchetto lingua : https://github.com/MyBB-Italia/Traduzione-MyBB-1.8
+// Compatibile con la versione di MyBB : 1822
 // Modificato l'ultima volta nell'editor da : chack1172
-// Ultima modifica: Dom, 24 Giugno 2018 14:40:22
+// Ultima modifica: Mar, 5 Maggio 2020 11:35:00
 // --------------------------------------------------------------------------------
 
 $l['post_thread'] = 'Nuova discussione';
@@ -77,7 +77,7 @@ $l['unstick_threads'] = 'Annulla da rilievo';
 $l['soft_delete_threads'] = 'Elimina discussioni in modo soft';
 $l['restore_threads'] = 'Ripristina discussioni';
 $l['delete_threads'] = 'Elimina discussioni in modo permanente';
-$l['move_threads'] = 'Sposta discussioni';
+$l['move_threads'] = 'Sposta / copia discussioni';
 $l['approve_threads'] = 'Approva discussioni';
 $l['unapprove_threads'] = 'Disapprova discussioni';
 $l['inline_go'] = 'Vai';

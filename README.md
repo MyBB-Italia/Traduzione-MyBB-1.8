@@ -1,6 +1,6 @@
 ![MyBB Italia](https://i.ibb.co/nfd8YKP/logo.png "MyBB Italia")
 
-## Traduzione Italiana MyBB 1.8.21
+## Traduzione Italiana MyBB 1.8.22
 
 ### Contributo
 
@@ -12,4 +12,5 @@ Tutte le nostre traduzioni sono sotto licenza [Creative Commons Attribuzione - N
 
 ### Community di supporto
 
+- [MyBB Italia](https://www.mybb-it.com/)
 - [Cionfs](https://forum.cionfs.it/mybb-italia-vf74/)
